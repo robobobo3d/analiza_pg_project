@@ -1,0 +1,1006 @@
+employee_id,name,department,hire_date,age,salary,performance_score,projects_completed,tenure_years,satisfaction,overtime_hours,training_completed,team_size
+1,Allison Hill,Engineering,2016-11-05,40.5,61818.65,19.6,9.0,1.0,Very Low,25.5,1.0,19.0
+2,Noah Rhodes,IT,2019-04-03,18.8,39241.56,45.5,3.0,4.8,vlow,13.7,0.0,4.0
+3,Angie Henderson,Marketing,2011-04-11,42.6,51933.99,43.0,0.0,1.2,LOW,9.1,1.0,19.0
+4,Daniel Wagner,HR,2017-08-13,44.2,,,7.0,1.1,low ,11.7,0.0,13.0
+5,Cristian Santos,Sales,2012-08-03,36.2,66847.46,36.6,15.0,0.8,Low,15.8,1.0,19.0
+6,Connie Lawrence,Sales,2022-05-24,51.0,,76.1,7.0,0.4,Low,14.1,1.0,2.0
+7,Abigail Shaffer,Sales,2015-03-04,37.2,71779.92,9.3,6.0,0.9,High,11.5,0.0,9.0
+8,Gina Moore,Finance,2016-03-28,20.8,60382.61,34.4,3.0,1.3,Medium,9.5,1.0,8.0
+9,Gabrielle Davis,HR,2013-09-07,38.7,,57.8,2.0,3.4,Low,3.9,1.0,
+10,Ryan Munoz,Marketing,2016-07-05,37.4,32464.46,10.4,5.0,0.2,Medium,9.8,0.0,9.0
+11,Monica Herrera,Sales,2013-03-02,29.0,60378.36,,6.0,0.7,High,4.3,1.0,13.0
+12,Jamie Arnold,IT,2013-10-04,40.7,62836.77,32.3,6.0,5.0,Medium,,0.0,18.0
+13,Lisa Hensley,Finance,2010-11-12,18.3,58179.84,14.7,4.0,0.5,High,2.9,0.0,6.0
+14,Michele Williams,Sales,2020-07-12,44.9,39778.2,,1.0,1.3,Medium,7.4,1.0,3.0
+15,Dylan Miller,Sales,2019-05-06,26.2,41185.92,68.5,6.0,6.0,Very Low,9.5,1.0,
+16,Brian Ramirez,Sales,2011-03-15,25.2,75816.05,9.8,8.0,0.5,Low,,1.0,10.0
+17,Holly Wood,Engineering,2014-10-24,33.9,59915.06,17.7,2.0,0.3,Low,32.8,1.0,10.0
+18,Derek Zuniga,Engineering,2017-07-30,39.3,73584.43,19.7,2.0,2.0,High,2.6,1.0,9.0
+19,Lisa Jackson,Engineering,2023-08-03,36.6,63950.8,21.0,2.0,1.1,High,16.2,1.0,12.0
+20,Carla Gray,Engineering,2018-04-03,27.6,61868.07,25.0,5.0,2.5,Very High,6.6,1.0,8.0
+21,Margaret Hawkins DDS,HR,2027-07-14,29.9,59016.07,45.7,7.0,4.9,High,7.2,0.0,9.0
+22,Patty Perez,Sales,2027-07-14,23.7,48167.17,42.9,,0.4,Medium,,1.0,17.0
+23,Ethan Adams,Engineering,2027-07-14,32.8,61651.88,54.8,9.0,2.6,Medium,,1.0,8.0
+24,Tommy Walter,Engineering,2015-11-11,45.8,50313.59,28.6,4.0,2.1,Low,,1.0,18.0
+25,Matthew Foster,Engineering,2017-06-30,35.0,50181.13,,7.0,0.5,Low,14.9,0.0,17.0
+26,Judy Baker,Marketing,2022-02-18,43.6,41510.26,23.0,5.0,2.9,Medium,10.7,1.0,6.0
+27,Justin Baker,Sales,2016-08-24,49.6,60792.94,33.6,7.0,1.0,Medium,,0.0,10.0
+28,Stephanie Ross,Engineering,2022-05-05,29.1,54095.51,25.7,7.0,2.0,Medium,11.7,,1.0
+29,Zachary Hicks,HR,2016-08-31,33.1,,45.5,3.0,0.3,High,4.1,1.0,1.0
+30,Anthony Rodriguez,Sales,2011-02-08,56.7,44894.45,20.5,5.0,1.8,High,7.2,1.0,9.0
+31,Rebecca Henderson,HR,2022-08-20,49.4,,58.9,5.0,1.1,Low,7.2,1.0,3.0
+32,James Ferrell,Sales,2019-12-31,18.3,49700.35,29.3,5.0,5.2,High,10.9,1.0,6.0
+33,Tricia Valencia,Sales,2017-01-10,38.9,90241.14,34.1,5.0,0.2,Medium,14.5,0.0,7.0
+34,Nathan Maldonado,IT,2022-08-09,35.0,64191.65,16.8,8.0,1.6,Medium,7.4,1.0,9.0
+35,Debra Davidson,IT,2021-03-15,43.3,79630.55,29.7,2.0,1.8,Low,,1.0,5.0
+36,Jeffrey Chavez,Finance,2019-06-26,27.6,32749.63,23.7,6.0,3.9,Medium,22.0,1.0,16.0
+37,Sherri Baker,Engineering,2018-09-06,26.6,62083.51,33.7,6.0,2.6,Medium,10.7,1.0,2.0
+38,Cassandra Gaines,Sales,2011-09-07,28.2,72180.16,61.0,6.0,3.3,Very Low,,0.0,3.0
+39,Elizabeth Fowler,Marketing,2020-08-06,29.3,49823.69,72.9,1.0,4.5,Medium,30.3,1.0,3.0
+40,Brittany Farmer,Engineering,2012-06-02,43.2,573646.1230683089,47.0,10.0,5.9,Low,18.6,1.0,10.0
+41,Paula Moreno,Sales,2023-10-12,23.2,48007.96,4.8,5.0,1.1,Medium,9.1,0.0,3.0
+42,Fred Smith,Engineering,2023-08-10,28.8,93675.31,35.0,3.0,2.3,High,10.4,0.0,15.0
+43,Sherry Decker,Sales,2021-04-25,18.0,,13.7,0.0,5.5,High,,1.0,14.0
+44,Anthony Humphrey,Finance,2011-10-08,45.1,47061.46,34.7,7.0,13.7,Very High,8.3,1.0,4.0
+45,Angelica Tucker,Engineering,2015-12-05,47.7,53947.41,15.6,4.0,6.6,Low,18.2,1.0,10.0
+46,Philip Cannon,Marketing,2023-11-01,31.7,76696.14,,6.0,1.4,High,5.4,1.0,11.0
+47,John Pierce,Engineering,2016-02-04,32.0,,58.4,4.0,0.7,Medium,,1.0,11.0
+48,Shane Henderson,Engineering,2023-12-17,39.5,55202.15,36.2,2.0,2.0,Medium,14.8,1.0,8.0
+49,Joshua Blair,Engineering,2018-10-12,49.7,53821.63,23.2,4.0,4.1,Medium,7.6,1.0,9.0
+50,Eric Carney,Sales,2021-09-03,39.1,51841.9,20.1,9.0,2.0,Medium,10.8,0.0,8.0
+51,Jessica Holmes,IT,2013-08-11,28.0,40716.69,53.9,4.0,2.0,Medium,10.1,1.0,
+52,Danny Morgan,Marketing,2022-10-01,18.8,37679.1,37.1,5.0,5.5,Very Low,,0.0,17.0
+53,Crystal Robinson,IT,2022-10-18,23.8,45430.78,,8.0,1.3,Low,,1.0,15.0
+54,Mark Perez,Finance,2010-12-09,35.7,43403.26,41.8,2.0,5.9,Medium,9.8,1.0,19.0
+55,Shannon Jones,HR,2015-06-07,28.4,40011.48,,2.0,1.6,High,11.0,1.0,
+56,Michael Lewis,IT,2015-07-25,36.9,63829.94,33.2,5.0,1.2,Low,28.3,0.0,5.0
+57,Timothy Duncan,Sales,2014-07-26,29.5,87474.11,62.5,4.0,1.8,High,2.8,0.0,8.0
+58,Richard Aguirre,Sales,2013-11-12,24.4,42000.57,28.5,8.0,4.3,Low,6.6,1.0,18.0
+59,Brent Jordan,Sales,2016-05-31,23.2,75673.31,,6.0,0.4,High,11.5,1.0,15.0
+60,John Daniel,Engineering,2022-03-24,50.6,57049.66,,9.0,0.7,Low,10.9,1.0,3.0
+61,Victoria Garcia,Engineering,2021-01-03,43.9,60116.36,44.2,7.0,9.1,Very High,10.2,1.0,14.0
+62,Gerald Hensley,Engineering,2018-09-21,52.3,71262.26,,2.0,0.6,Very Low,33.9,1.0,15.0
+63,Connor West,Finance,2017-04-25,40.4,37405.63,24.1,8.0,2.5,Medium,5.7,0.0,13.0
+64,Donald Wright,Engineering,2015-11-15,30.7,68910.56,47.6,3.0,2.6,High,22.0,0.0,9.0
+65,Jessica Callahan,Engineering,2015-10-20,-48.2,64733.26,11.1,5.0,2.0,Medium,,0.0,17.0
+66,Amber Kidd,Engineering,2012-01-28,34.7,68976.16,29.5,4.0,3.1,Low,39.9,1.0,19.0
+67,Tracy House,Sales,2018-03-25,37.2,64014.2,49.5,5.0,0.8,Medium,8.4,0.0,4.0
+68,Carol Tucker,Finance,2020-08-12,34.6,,32.8,4.0,2.4,Medium,5.7,0.0,10.0
+69,James Brown,Sales,2023-02-25,18.0,48496.25,28.9,8.0,1.4,High,13.2,1.0,3.0
+70,William Baker,IT,2022-12-12,51.0,51016.86,39.4,0.0,3.3,Very High,3.1,1.0,19.0
+71,Jordan Henderson,Marketing,2017-11-16,39.9,39369.89,32.5,7.0,0.5,Medium,5.7,1.0,9.0
+72,Whitney Peters,Sales,2011-06-01,-38.3,51271.24,25.8,4.0,2.5,Low,24.2,1.0,5.0
+73,Brittney Phillips,Sales,2014-01-02,34.4,44174.99,5.4,5.0,0.6,Very Low,15.9,0.0,14.0
+74,Lauren Daniels,Finance,2017-07-01,36.6,78873.31,39.4,2.0,1.0,Medium,9.1,1.0,7.0
+75,Amy Silva,Marketing,2014-10-24,29.0,77069.29,9.5,3.0,0.7,Medium,12.5,0.0,6.0
+76,Sarah Moore,Marketing,2015-10-02,41.2,39965.3,41.0,3.0,0.6,High,16.0,1.0,8.0
+77,Angela Lopez,Marketing,2015-05-13,21.9,40973.57,7.5,1.0,5.2,High,2.4,1.0,2.0
+78,Megan Young,Sales,2016-10-18,36.9,64437.8,13.9,3.0,1.0,High,7.1,1.0,14.0
+79,Steve Sanchez,Engineering,2018-07-11,40.6,52498.28,35.1,4.0,7.9,Very Low,39.6,1.0,7.0
+80,Lisa Barnes,Sales,2010-07-11,33.0,68682.57,28.7,4.0,10.5,Medium,13.1,1.0,3.0
+81,Kelly Donovan,Finance,2013-11-08,38.7,57038.9,21.9,,2.5,High,9.3,1.0,6.0
+82,Mike Allen,HR,2012-01-06,25.1,573646.1230683089,,,0.5,Medium,8.9,0.0,14.0
+83,Michael Evans,Engineering,2018-07-09,25.3,99066.26,,1.0,1.4,Low,5.2,1.0,12.0
+84,Paul Jones,Sales,2019-09-16,37.4,93121.41,7.7,3.0,4.8,Medium,6.6,0.0,18.0
+85,Zachary Ferrell,Engineering,2010-07-18,41.8,53594.71,49.7,5.0,1.4,Low,21.8,1.0,12.0
+86,Daniel Baker,Engineering,2022-06-14,18.0,51222.84,,,0.3,Medium,12.3,1.0,7.0
+87,Shirley Suarez,Marketing,2014-08-22,40.2,55475.43,37.3,3.0,2.4,High,5.8,0.0,5.0
+88,Christopher Bass,HR,2013-04-29,29.6,48318.84,21.6,5.0,5.6,Medium,3.2,1.0,12.0
+89,Lisa Archer,Finance,2020-06-09,33.1,63519.33,42.0,7.0,4.8,Medium,,0.0,9.0
+90,Aimee Montoya,Engineering,2022-11-21,21.6,,28.7,4.0,0.6,Very High,11.6,,11.0
+91,Matthew Mcmillan,Sales,2022-07-22,26.5,51247.99,45.3,6.0,3.4,Low,26.1,0.0,4.0
+92,Brian Rodriguez,Marketing,2010-04-14,44.7,38150.99,14.6,,0.7,High,11.4,1.0,14.0
+93,Denise Jacobs,Marketing,2021-06-10,35.3,31793.35,17.9,,0.7,Low,8.2,,12.0
+94,Christina Walters,HR,2014-03-30,31.2,35022.54,14.0,5.0,6.2,Medium,2.8,1.0,18.0
+95,John Whitehead,Marketing,2013-12-04,33.8,51156.66,15.5,,0.9,Medium,14.2,1.0,7.0
+96,Anna Henderson,Engineering,2016-11-18,39.9,,20.4,4.0,0.9,Medium,,0.0,1.0
+97,Aaron Wise,Engineering,2019-09-29,39.4,51338.49,,4.0,0.0,Medium,,,13.0
+98,Deborah Figueroa,Engineering,2011-05-18,34.2,65112.64,18.3,5.0,6.1,High,5.7,0.0,16.0
+99,Jessica Smith,Sales,2022-02-28,45.9,52729.98,29.5,4.0,4.7,Medium,8.0,1.0,5.0
+100,Stephen Mckee,Sales,2011-11-18,44.7,,50.0,8.0,3.0,Medium,11.1,1.0,19.0
+101,Sandra Aguilar,Sales,2023-08-21,39.1,,38.1,3.0,4.2,Very High,1.5,1.0,9.0
+102,Cameron Parker,HR,2016-03-15,35.5,38764.28,19.9,5.0,0.5,Medium,6.3,0.0,9.0
+103,Rebecca Valencia,Engineering,2021-07-23,41.6,50439.4,2.5,4.0,1.8,Medium,23.4,,12.0
+14,Michele Williams,Sales,2020-07-12,44.9,39778.2,,1.0,1.3,Medium,7.4,1.0,3.0
+104,Christine Wright,Engineering,2013-10-09,38.1,82632.13,28.6,3.0,1.3,Low,24.1,0.0,18.0
+105,Richard Henson,Finance,2015-11-01,45.6,66110.25,18.8,5.0,0.3,Medium,10.1,1.0,
+106,Marc Moore,Sales,2019-01-14,44.0,98663.41,12.7,5.0,2.0,High,8.4,0.0,17.0
+107,Sharon Cherry,Engineering,2012-08-18,24.8,71388.63,32.5,5.0,7.6,High,9.5,1.0,19.0
+108,Sierra Johnson,Marketing,2012-12-16,24.1,44859.89,,2.0,0.1,Very Low,8.0,0.0,11.0
+109,Evelyn Galvan,Sales,2021-07-14,28.0,66355.21,17.7,4.0,1.0,Medium,13.7,0.0,16.0
+110,Sharon Cochran,Sales,2020-05-15,44.8,78590.44,,4.0,0.7,Low,,1.0,8.0
+111,Richard Rodriguez,Engineering,2020-08-18,19.2,,23.8,7.0,0.8,Medium,17.7,0.0,15.0
+112,Shannon Walker,Sales,2022-02-20,38.9,65653.08,37.9,2.0,7.2,Low,13.8,1.0,11.0
+113,Julia Torres,IT,2021-06-29,38.6,80136.91,48.9,3.0,1.9,Medium,4.5,1.0,7.0
+114,Crystal Johnson,Finance,2017-03-19,46.6,76361.36,,4.0,1.9,Medium,9.0,0.0,2.0
+115,Garrett Lin,HR,2012-03-23,36.8,62901.36,37.4,5.0,4.3,Low,11.0,1.0,19.0
+116,Diana May,Finance,2014-05-10,21.6,64767.69,66.0,7.0,0.5,Medium,8.7,1.0,9.0
+117,William Herrera,Finance,2017-02-03,25.4,50768.49,54.8,5.0,2.0,Low,8.3,0.0,18.0
+118,Ashley Waller,Sales,2011-11-25,23.2,62107.88,13.1,3.0,1.7,Low,8.3,0.0,13.0
+119,Victor Baker,Finance,2021-11-30,29.6,,33.0,2.0,2.7,High,12.2,1.0,1.0
+120,Jeffrey Chandler,Engineering,2022-04-23,33.2,47366.17,81.8,5.0,23.2,Low,7.5,,19.0
+121,Larry Dixon,Finance,2010-05-28,23.3,61623.09,23.2,7.0,4.4,Medium,16.0,1.0,13.0
+122,Kenneth Scott,Finance,2012-09-12,49.7,47253.33,48.7,5.0,1.5,High,7.8,1.0,14.0
+123,April Frost,Engineering,2021-08-28,21.7,64152.95,32.7,5.0,5.3,Low,,0.0,17.0
+124,Michelle Harmon,Sales,2021-09-18,48.5,83465.97,22.3,7.0,0.6,Medium,,1.0,1.0
+125,Helen Jones,Sales,2013-06-29,46.9,59485.66,47.8,7.0,0.1,High,6.5,1.0,5.0
+126,Erin Edwards,Engineering,2016-05-22,44.0,63031.04,48.1,10.0,0.7,High,15.5,1.0,14.0
+127,Michelle Evans,Finance,2022-11-06,28.1,32717.37,13.6,4.0,1.2,Low,6.1,1.0,18.0
+128,Jason Powell,Finance,2019-11-12,38.4,65199.46,54.1,4.0,2.1,High,4.5,1.0,13.0
+129,Cameron Fisher,Sales,2013-11-01,22.2,66031.24,2.0,0.0,2.9,Very Low,20.4,0.0,12.0
+130,Megan Orr,Engineering,2021-07-11,44.1,573646.1230683089,25.0,3.0,7.2,High,13.0,1.0,15.0
+131,Elizabeth Kelley,Engineering,2017-01-26,34.3,59336.55,30.1,3.0,2.1,Medium,7.0,1.0,4.0
+132,Dustin Jordan,Sales,2018-11-23,30.9,64667.38,22.1,2.0,2.1,Medium,11.5,1.0,9.0
+133,Mary Marshall,Sales,2011-09-26,22.8,62029.42,,9.0,0.2,Medium,4.5,1.0,3.0
+134,Daniel Kennedy,Engineering,2010-06-06,18.0,99360.71,18.4,8.0,0.1,Medium,11.5,1.0,11.0
+135,Rebecca Jackson,IT,2015-03-20,24.6,53564.93,27.5,8.0,2.4,Medium,16.8,1.0,
+136,Jose Schultz,Engineering,2018-04-25,46.1,65540.64,,4.0,1.7,High,5.1,1.0,16.0
+137,Robert Potter,Engineering,2012-06-26,-31.0,71959.12,30.5,10.0,5.5,Low,25.3,1.0,7.0
+138,Courtney Gonzalez,Marketing,2022-03-08,33.3,50601.7,62.6,3.0,0.5,Medium,12.8,1.0,7.0
+139,David Alvarez,Engineering,2018-03-20,41.6,53258.84,27.5,2.0,0.1,Medium,,0.0,9.0
+140,Angel Perry,IT,2014-11-23,53.1,61407.66,,2.0,1.8,High,23.4,1.0,17.0
+141,Cheyenne Horton,IT,2012-04-15,48.3,,75.4,2.0,0.8,Low,11.3,0.0,13.0
+142,David Douglas Jr.,Engineering,2022-07-09,25.3,46530.54,48.8,6.0,0.2,Medium,12.6,0.0,9.0
+143,Patricia Rodriguez,Engineering,2020-06-25,18.0,61624.28,40.5,2.0,3.9,Medium,,1.0,9.0
+144,Christopher Rubio,Engineering,2019-08-23,58.6,50146.05,6.9,9.0,0.4,Medium,6.3,1.0,12.0
+145,Amber Wright,Engineering,2013-12-28,57.7,91846.44,59.4,8.0,2.8,Low,9.9,1.0,19.0
+146,Joyce Solis,Sales,2015-05-31,36.9,33857.66,42.7,4.0,1.0,Medium,8.0,1.0,15.0
+147,Victoria Larson,HR,2012-04-12,22.3,,11.0,4.0,0.6,High,1.4,0.0,18.0
+148,Stephanie Salazar,Engineering,2018-01-04,44.6,68045.78,38.1,3.0,1.4,High,6.2,1.0,
+149,Kathy Rivas,Sales,2023-07-04,33.9,92368.95,16.2,9.0,4.9,Medium,4.4,0.0,6.0
+150,Stephanie Manning,Engineering,2021-12-30,33.9,63995.87,,10.0,1.5,Medium,14.6,0.0,6.0
+151,David Wright,Finance,2019-01-23,43.9,43190.51,57.1,5.0,4.2,Very High,6.5,1.0,
+152,Pamela Boyd,Sales,2019-06-27,38.3,100115.63,45.5,5.0,0.4,High,21.6,1.0,3.0
+153,Denise Jones,Sales,2013-10-07,23.1,35579.97,20.8,9.0,4.4,Medium,9.1,0.0,2.0
+154,Devon Flores,Engineering,2015-09-25,31.8,31470.03,,2.0,0.8,Medium,15.1,1.0,5.0
+155,Brenda Hall,IT,2010-04-13,41.6,72414.63,10.5,5.0,3.4,Low,,1.0,12.0
+156,Michelle Brown,Sales,2020-12-02,40.1,45485.65,31.5,5.0,2.5,Medium,2.1,0.0,
+157,Joshua Perry,Marketing,2020-09-28,37.6,36592.39,26.7,8.0,7.9,Medium,11.7,0.0,16.0
+158,Jason Stein,Marketing,2010-02-15,44.3,61563.07,22.8,6.0,1.5,High,7.9,1.0,5.0
+159,Melissa Gates,Sales,2022-10-04,31.4,62823.22,,6.0,0.2,High,12.7,0.0,6.0
+160,Jamie Smith,Marketing,2019-01-23,36.8,41585.21,29.2,7.0,0.1,High,6.4,1.0,4.0
+161,Paul Castaneda,Engineering,2018-06-01,18.0,42349.3,15.6,5.0,5.3,Low,12.4,1.0,14.0
+162,Jennifer Adkins,HR,2010-02-13,30.5,53350.73,20.4,5.0,2.2,Medium,10.4,1.0,3.0
+163,Lindsey Walker,HR,2013-07-14,42.6,51180.5,40.7,7.0,4.5,High,7.7,,17.0
+164,Jeffrey Johnson,Engineering,2021-04-08,31.1,58793.34,29.4,4.0,0.8,High,13.8,1.0,5.0
+165,Michael Powell,Sales,2014-04-11,30.3,99344.16,20.3,4.0,1.3,High,6.1,0.0,6.0
+166,John Anderson,Finance,2023-07-15,24.6,38376.7,13.2,6.0,0.1,Very High,3.2,,4.0
+167,Alyssa Long,Engineering,2018-12-30,45.0,39527.46,39.5,6.0,9.8,Low,10.5,1.0,13.0
+168,Alyssa Day,Sales,2015-12-07,40.5,45748.35,37.6,4.0,3.3,Low,10.8,0.0,8.0
+169,Joel Williams,Sales,2015-04-09,43.3,57860.31,21.0,3.0,8.1,Low,31.2,1.0,11.0
+170,Daniel Murphy,HR,2014-11-18,18.0,44720.49,21.2,3.0,0.9,Very High,6.3,0.0,19.0
+171,Jamie Walton,Marketing,2013-07-12,33.4,42052.39,31.2,10.0,2.8,Medium,5.7,0.0,5.0
+172,Darlene Miller,Sales,2016-07-13,32.2,65177.58,14.6,6.0,3.4,High,0.9,1.0,5.0
+173,Joshua Cooke,Engineering,2019-06-24,32.2,40283.43,,6.0,1.1,High,9.6,1.0,
+174,Matthew Harrington,Sales,2021-07-15,28.8,,14.0,4.0,5.7,High,7.4,1.0,2.0
+175,Nicole Herring,HR,2015-07-24,31.5,39461.99,18.9,1.0,8.8,Medium,5.5,0.0,3.0
+176,Alex Hernandez,Sales,2011-06-08,43.5,81571.13,4.0,5.0,6.5,High,6.9,1.0,15.0
+177,Michael Elliott,Marketing,2017-02-27,18.0,50057.88,15.9,,4.0,Medium,27.2,0.0,7.0
+178,Michael Wang,Engineering,2019-04-09,52.8,573646.1230683089,5.2,4.0,1.0,High,12.7,1.0,3.0
+179,Lawrence Adkins,IT,2021-10-20,39.8,71902.51,,3.0,1.0,High,24.7,1.0,15.0
+180,Robert Oconnell,Sales,2015-03-29,34.6,64924.17,22.1,5.0,9.9,High,3.0,,
+181,Alexander Collins,Engineering,2019-01-23,44.1,74197.21,5.2,7.0,0.0,High,14.6,1.0,16.0
+182,Tina Sanders,Sales,2018-07-11,20.5,84565.7,28.9,9.0,3.8,High,6.2,1.0,13.0
+183,Angela Vaughn,IT,2014-03-06,28.4,63439.58,54.6,2.0,3.7,Medium,27.3,,2.0
+184,Ashley Barton,Finance,2011-07-07,33.8,67993.84,68.3,6.0,2.9,High,7.8,1.0,12.0
+185,Lindsay Martinez,Engineering,2010-11-23,48.7,60759.62,13.1,2.0,13.8,Low,35.3,1.0,7.0
+186,Dr. Hannah Patterson,Marketing,2023-11-01,34.5,,,3.0,1.1,High,13.5,1.0,1.0
+187,Jonathan Peterson,Finance,2018-12-19,39.5,43625.02,35.9,,1.2,High,6.8,1.0,14.0
+188,Samantha Garcia,HR,2022-01-21,29.1,71219.66,40.5,3.0,0.2,Medium,2.1,1.0,10.0
+189,Madison Poole,Engineering,2013-08-27,39.9,60152.4,22.3,4.0,1.8,Medium,9.2,0.0,3.0
+190,Jessica Gross,Sales,2019-12-15,51.8,38967.44,,5.0,0.9,Low,10.1,0.0,11.0
+191,Debra Morton,Sales,2022-06-28,45.0,59769.73,,4.0,1.3,Medium,16.4,1.0,15.0
+192,Karen Graham,Finance,2014-03-08,34.2,38077.43,59.9,5.0,5.4,Medium,8.4,1.0,6.0
+193,Debra Christian,Finance,2012-02-06,41.8,70702.16,33.4,2.0,8.2,High,14.2,1.0,18.0
+194,Angelica Keith,HR,2020-09-18,40.8,34648.11,4.2,4.0,0.6,Medium,10.5,1.0,13.0
+195,John Bishop,Engineering,2022-08-05,40.1,53561.73,23.0,5.0,1.4,Very Low,16.0,1.0,15.0
+196,Allen Rosales,Engineering,2021-04-10,46.1,573646.1230683089,38.0,6.0,7.9,Low,9.1,1.0,3.0
+197,Daniel Salinas,Marketing,2021-03-25,46.0,45048.86,,10.0,0.2,High,12.1,1.0,15.0
+198,Spencer Haynes,Finance,2018-05-26,33.7,27954.78,39.0,5.0,0.3,Very Low,24.4,0.0,1.0
+199,Adam Vaughan,Finance,2019-03-31,41.4,31982.35,,6.0,0.5,High,12.4,1.0,10.0
+200,Nathan Freeman,Marketing,2019-07-13,31.2,62396.07,65.7,7.0,2.7,High,12.9,1.0,18.0
+201,Melissa Brewer,HR,2020-02-05,25.8,50801.52,18.2,4.0,0.5,Very High,3.0,1.0,8.0
+202,Ricky Davis II,Sales,2019-03-05,32.3,61289.48,15.1,7.0,10.3,Medium,9.1,1.0,12.0
+203,Elizabeth Perkins,Sales,2023-12-18,34.2,40925.2,14.1,6.0,1.8,Low,3.2,0.0,5.0
+204,Joseph Coleman,Finance,2013-08-19,18.4,54881.35,49.7,2.0,2.1,High,3.3,0.0,
+205,Erin Warner,HR,2015-11-10,43.6,43528.92,,,0.8,High,5.7,1.0,8.0
+206,David Martinez,Sales,2015-06-08,18.0,40851.27,,4.0,1.9,High,3.5,0.0,5.0
+207,Bryan Herrera,Sales,2010-06-30,62.1,89952.28,60.0,4.0,3.3,Medium,9.9,0.0,17.0
+208,Cathy Robinson,Marketing,2019-11-29,50.0,64813.23,14.9,5.0,4.2,High,3.2,1.0,15.0
+209,Dr. William Warren,Sales,2018-01-03,32.4,51475.14,53.2,7.0,4.2,Medium,4.5,1.0,4.0
+210,Brian Lee,Sales,2012-08-28,35.1,57694.3,42.2,3.0,2.6,Low,12.4,1.0,13.0
+211,Christopher Smith,Engineering,2020-03-03,38.0,66829.75,7.6,3.0,7.0,High,8.4,0.0,17.0
+212,Denise Mccann,Marketing,2013-02-10,29.1,28077.03,46.4,6.0,5.1,Low,5.1,1.0,13.0
+213,Melissa Martinez,Marketing,2017-06-26,36.9,47895.08,46.5,3.0,4.2,Medium,7.6,1.0,2.0
+214,Katherine Salas,Sales,2020-12-26,33.6,47360.06,3.7,9.0,0.2,Medium,2.7,1.0,4.0
+215,Julie Alexander,Marketing,2022-09-09,34.1,37000.75,26.0,7.0,0.0,Very Low,20.5,1.0,2.0
+216,Anthony Everett,Sales,2019-05-28,36.8,53955.14,29.2,5.0,0.7,Medium,16.8,,12.0
+217,Rodney Morales,Engineering,2017-02-06,21.9,105024.04,22.5,6.0,3.3,High,25.5,,19.0
+218,Mark Brown,Marketing,2021-10-31,35.4,57648.33,19.3,6.0,1.6,Medium,4.4,1.0,18.0
+219,Justin Torres,HR,2021-10-07,36.6,34779.87,,3.0,1.5,Low,5.8,0.0,10.0
+220,Bailey Duran DDS,Finance,2022-04-08,36.3,62538.79,38.0,8.0,6.5,High,8.6,0.0,5.0
+221,Courtney Mills,Marketing,2012-07-14,32.8,73242.99,4.3,10.0,6.8,Very High,4.6,0.0,11.0
+222,Jeremy Dalton,HR,2011-05-14,46.4,,30.7,6.0,7.2,Medium,5.3,0.0,1.0
+223,Elizabeth Oliver DDS,Sales,2011-10-17,31.5,55806.64,21.2,7.0,1.1,Medium,3.1,0.0,3.0
+224,Theresa Clark,Engineering,2013-08-15,37.3,49850.45,25.3,2.0,3.5,High,6.5,1.0,17.0
+225,Matthew Moore,Engineering,2021-04-25,48.0,71767.35,37.5,5.0,1.0,Very High,15.2,0.0,15.0
+226,Benjamin Smith,Sales,2020-09-05,34.2,63863.9,,8.0,0.6,Medium,7.3,1.0,14.0
+227,Kirk Carter,IT,2012-07-24,37.1,76949.98,33.5,6.0,0.6,Low,17.6,1.0,15.0
+228,Michael Warner,Engineering,2019-07-07,34.0,72504.68,25.0,2.0,1.3,High,8.8,0.0,16.0
+229,Michael Bradshaw,Finance,2014-09-12,47.4,75196.91,,3.0,1.7,High,6.4,1.0,4.0
+230,Lori Guerrero,HR,2011-04-02,32.4,,29.2,10.0,5.3,Medium,4.5,0.0,19.0
+231,Jessica Stephens,Marketing,2014-12-22,47.8,69566.46,37.3,3.0,0.4,Medium,5.4,1.0,8.0
+232,Susan Serrano,Engineering,2020-06-01,34.0,63492.81,35.9,4.0,4.0,High,13.9,1.0,
+233,Christopher Parker,HR,2014-04-19,26.4,76118.9,2.7,9.0,2.3,High,4.8,0.0,
+234,Laura Roberts,Engineering,2021-01-11,41.8,573646.1230683089,37.5,2.0,1.0,Very Low,40.0,1.0,3.0
+235,Michael Lyons,Sales,2014-08-21,32.0,96556.3,32.0,,2.0,High,6.7,1.0,8.0
+236,Kathryn Snyder,Marketing,2013-08-24,41.2,51631.81,4.0,1.0,1.1,Low,5.6,0.0,5.0
+237,Andrew Reynolds,Engineering,2014-02-12,18.0,573646.1230683089,42.2,5.0,2.7,Medium,28.5,1.0,5.0
+238,David Davis,Sales,2021-11-30,35.1,44748.89,29.5,9.0,1.7,Low,,1.0,12.0
+239,Sara Johnston,HR,2016-08-02,30.4,,,2.0,0.5,Medium,12.6,0.0,1.0
+240,Yvonne Chambers,Sales,2022-02-16,-24.4,61545.38,13.2,5.0,0.4,Medium,,1.0,7.0
+241,Andrew Avila,IT,2018-03-03,29.5,68934.53,38.0,6.0,2.4,High,6.4,0.0,11.0
+242,Matthew Moon,IT,2023-03-21,29.3,50078.7,24.2,7.0,7.0,Medium,26.3,1.0,10.0
+243,Kevin Walters,Finance,2010-12-31,34.5,56251.65,,3.0,1.3,High,14.2,0.0,3.0
+244,Brandon Bailey MD,Engineering,2022-06-13,21.3,113903.11,27.7,7.0,4.0,High,6.5,1.0,8.0
+245,Shannon Rivera,Sales,2017-01-02,38.2,88618.9,62.0,7.0,3.2,High,9.4,1.0,1.0
+246,Donna Landry,IT,2022-02-21,48.7,67419.36,11.9,6.0,8.0,High,2.0,0.0,8.0
+247,Krista Gibson,Engineering,2015-05-06,37.8,65579.63,32.1,4.0,5.2,Medium,17.5,1.0,11.0
+248,Frank Cordova,IT,2014-03-06,43.1,63459.71,38.1,10.0,2.5,Medium,,0.0,7.0
+249,Jose Travis,IT,2010-10-04,45.9,71131.77,40.9,6.0,3.2,Medium,11.4,1.0,16.0
+250,Kimberly Gutierrez,Finance,2021-12-15,47.4,38691.56,56.3,8.0,6.9,High,5.1,0.0,7.0
+251,Isaiah Avila,Engineering,2011-12-04,53.7,58336.99,31.8,3.0,1.5,Medium,8.3,1.0,13.0
+252,Olivia Harris,Engineering,2012-10-20,30.0,35197.31,6.3,6.0,1.2,Low,14.7,,10.0
+253,Tanya Kim,Finance,2015-09-23,27.8,61736.43,15.6,9.0,0.0,Very High,10.0,1.0,17.0
+254,Barbara Dudley,Engineering,2017-12-20,42.8,75417.72,12.1,3.0,5.3,Medium,,0.0,3.0
+255,Cynthia Moore,Sales,2022-09-09,-42.1,50887.27,68.4,,4.8,Medium,3.4,1.0,7.0
+256,Kristen Davis,HR,2016-05-28,42.8,72333.93,23.7,4.0,0.3,High,10.6,1.0,11.0
+257,Susan Murray MD,IT,2014-06-06,53.9,41509.6,21.5,3.0,2.6,Medium,14.8,1.0,13.0
+258,Kathleen Moran,Marketing,2020-01-07,35.1,30574.97,35.1,9.0,1.9,Medium,17.6,1.0,5.0
+259,Denise Davenport,HR,2020-11-25,39.3,44518.87,37.3,4.0,0.4,Medium,8.1,,19.0
+260,Mrs. Kristen Reyes,Sales,2016-10-28,25.2,73641.52,31.7,4.0,11.8,High,11.4,1.0,15.0
+261,Katie Suarez,HR,2018-10-31,56.4,67665.63,33.2,3.0,0.7,High,6.5,1.0,1.0
+262,Desiree Tyler,IT,2012-06-22,31.6,50440.94,42.1,2.0,0.2,Medium,18.2,0.0,5.0
+263,Timothy Romero,Sales,2018-11-18,31.9,76866.23,14.4,,2.7,High,8.4,1.0,13.0
+264,Diane Evans,Engineering,2010-01-25,31.5,60876.89,34.8,6.0,4.0,Medium,14.9,1.0,10.0
+265,Yvonne Burns,Finance,2013-10-30,28.6,49556.55,31.0,12.0,0.1,Medium,11.5,0.0,5.0
+266,Joshua Reed,Marketing,2020-08-27,27.7,66143.55,45.9,7.0,3.2,High,4.1,1.0,1.0
+267,Kimberly Gibson,Marketing,2012-05-11,29.8,573646.1230683089,46.3,4.0,2.3,Medium,19.3,1.0,10.0
+268,Colin Terry,Marketing,2020-09-13,21.3,30530.25,17.8,7.0,0.3,Medium,16.7,1.0,18.0
+269,Cynthia Rowe,Engineering,2016-11-07,27.1,,,5.0,0.6,Medium,10.3,0.0,8.0
+270,Patrick Thornton,Engineering,2020-09-08,54.5,93014.76,27.9,8.0,2.5,Low,,0.0,3.0
+271,Jasmin Alvarado,Finance,2011-03-27,42.4,46346.29,35.5,4.0,1.1,Low,10.3,1.0,19.0
+272,Veronica Simpson,Finance,2018-08-08,44.3,58987.13,55.8,7.0,8.4,Low,7.2,0.0,19.0
+273,Jonathan Lawrence,Finance,2018-11-13,46.8,61221.12,13.5,5.0,5.1,Medium,10.6,1.0,2.0
+274,Shelly Alexander,Finance,2015-08-25,53.3,57701.58,12.4,2.0,12.3,Medium,18.1,,17.0
+275,Joyce Bowen,Engineering,2023-07-06,18.0,49259.04,13.7,4.0,0.9,Low,31.7,,16.0
+276,Matthew Moore,Engineering,2015-05-14,22.7,48455.49,11.1,6.0,10.5,Medium,4.2,1.0,10.0
+277,Wayne Morgan,Marketing,2010-07-12,27.0,573646.1230683089,33.4,6.0,1.7,Very Low,12.7,1.0,16.0
+278,Marie Christian,HR,2012-10-16,30.3,,,4.0,1.3,Very High,8.6,0.0,5.0
+279,Shannon James,Marketing,2015-03-23,32.0,58229.02,35.4,3.0,0.2,High,6.6,1.0,3.0
+280,Nathan Malone,Marketing,2010-03-13,30.5,573646.1230683089,,4.0,0.2,Medium,16.9,,3.0
+281,Amanda Jones,Finance,2014-07-06,37.2,69671.67,42.4,5.0,3.5,Very High,5.9,1.0,2.0
+282,Tammie Bright,Engineering,2021-08-30,35.4,25796.31,16.5,7.0,1.8,Low,12.9,1.0,4.0
+283,Jessica Garcia,Engineering,2012-09-01,27.8,87269.99,30.1,10.0,0.8,Very High,9.9,1.0,18.0
+284,Shelia Wallace,Sales,2019-06-22,18.0,33244.92,65.8,7.0,2.9,Low,5.6,1.0,2.0
+285,Stephanie Williams,HR,2018-10-09,25.1,,,5.0,0.9,Medium,6.4,1.0,6.0
+286,Elaine Brooks,Sales,2013-06-25,29.5,39124.58,18.0,3.0,2.6,Low,4.1,0.0,3.0
+287,Joseph Knight,Engineering,2019-09-16,32.5,36675.95,13.6,4.0,1.3,Medium,13.2,1.0,3.0
+288,Carolyn Miller,Engineering,2014-10-27,23.7,573646.1230683089,20.4,4.0,5.2,Medium,20.4,1.0,2.0
+289,Lisa Allen,Engineering,2011-10-22,30.1,56099.76,19.7,8.0,5.2,Medium,9.2,1.0,3.0
+290,Briana Murray,HR,2015-05-15,-23.7,48084.65,19.5,8.0,1.9,High,10.6,1.0,17.0
+291,David Smith,Sales,2018-03-29,33.7,57516.75,22.5,4.0,1.3,Medium,10.7,1.0,14.0
+292,Stephanie Byrd,Sales,2012-05-03,24.3,67519.84,34.5,4.0,1.4,Low,29.9,1.0,7.0
+293,Jeremy Reed,Finance,2021-07-13,26.5,55357.36,48.5,8.0,4.9,Medium,5.1,1.0,6.0
+294,Margaret Coleman,Engineering,2014-03-05,21.9,42094.19,30.7,4.0,1.2,Medium,,1.0,8.0
+295,Ryan Gonzalez,Sales,2014-01-26,33.5,74776.35,24.4,6.0,0.7,Medium,12.5,1.0,19.0
+296,John Young,Engineering,2020-03-09,26.3,52207.47,,6.0,0.3,High,10.9,1.0,19.0
+297,Laura Haney,Marketing,2018-05-07,44.1,31962.49,,1.0,1.9,High,11.3,1.0,12.0
+298,William Barrett,Sales,2014-09-24,39.1,51987.0,29.1,5.0,2.0,Low,15.5,1.0,5.0
+299,Keith Jennings,HR,2022-06-06,34.3,65083.94,31.9,3.0,5.5,High,8.2,0.0,
+300,Amber Obrien,Sales,2023-12-07,27.0,71852.84,,9.0,0.8,Very High,10.5,1.0,14.0
+301,Tanner Mitchell DDS,Sales,2014-10-19,38.8,50776.41,19.7,4.0,1.4,Medium,14.1,0.0,17.0
+302,Heather Fields,Engineering,2022-08-13,41.9,56382.99,27.3,8.0,5.0,High,8.6,0.0,16.0
+303,Megan Le,Engineering,2015-01-11,36.4,52752.03,46.5,8.0,5.2,Medium,27.6,1.0,4.0
+304,Sara Fuller,HR,2012-08-21,51.0,73099.47,,2.0,1.5,Medium,11.3,,8.0
+305,Maria Parker,Marketing,2023-04-09,39.6,53871.0,27.6,6.0,1.8,Medium,15.3,1.0,3.0
+306,Kevin Oconnor,IT,2022-11-07,44.1,64483.99,28.7,9.0,1.1,Low,8.4,1.0,5.0
+307,Edward Burgess,Engineering,2015-08-25,36.3,82452.55,61.0,4.0,8.1,High,8.5,1.0,7.0
+308,Carlos Ryan,Engineering,2013-03-13,41.8,65531.11,22.6,4.0,0.4,Low,40.0,0.0,18.0
+309,Kiara Mcintyre,Marketing,2020-03-06,27.0,44449.03,27.1,6.0,8.1,Medium,21.5,1.0,8.0
+310,Dawn Summers,Engineering,2011-11-02,30.4,60675.73,37.0,13.0,3.5,Medium,27.2,1.0,11.0
+311,Dr. Paul Morgan,Engineering,2020-04-10,38.5,60627.3,24.4,6.0,2.3,Very Low,40.0,1.0,14.0
+312,Victor Taylor,Sales,2018-04-03,38.4,56348.86,23.9,8.0,0.1,Medium,10.8,,18.0
+313,Shannon Ramsey,Sales,2012-05-13,40.1,71370.55,37.5,8.0,1.9,Very High,17.8,1.0,13.0
+314,Tracy Ballard,IT,2015-02-18,46.0,57471.19,42.1,1.0,1.6,Low,,1.0,6.0
+315,Richard Smith,Finance,2019-02-08,20.8,69256.3,14.4,8.0,0.5,High,6.1,0.0,13.0
+316,Jordan Chambers,Marketing,2010-07-11,25.3,47696.49,29.5,4.0,3.2,Medium,12.9,1.0,1.0
+317,Lauren Carson,Engineering,2022-04-08,37.3,64079.68,53.0,4.0,10.6,Very Low,,1.0,11.0
+318,Ashley Hall,Sales,2013-07-31,27.8,28811.65,37.4,2.0,2.5,High,5.7,1.0,7.0
+319,Stephen Hoffman,Sales,2017-06-26,68.8,71102.93,31.5,6.0,3.8,Medium,8.9,1.0,10.0
+320,Connie Brown,Engineering,2010-09-06,40.2,69624.02,34.7,6.0,0.2,Very Low,,1.0,2.0
+321,Susan Turner,Engineering,2023-12-03,34.2,,,,1.6,Medium,17.7,1.0,16.0
+322,Charles Shah,Marketing,2019-04-07,29.8,18756.32,22.9,5.0,0.4,Very Low,9.9,1.0,5.0
+323,Johnathan Davis,Marketing,2019-02-24,30.2,89982.2,16.5,8.0,2.8,Medium,9.2,1.0,16.0
+324,Brandy Chavez,Engineering,2010-04-11,35.3,61013.81,33.6,9.0,8.4,Very Low,34.3,0.0,16.0
+325,Natalie Bautista,IT,2019-08-28,36.1,,55.2,3.0,3.3,High,8.3,0.0,15.0
+326,Patrick Moore,Marketing,2015-11-01,30.4,39168.68,,2.0,0.2,Medium,6.4,0.0,9.0
+327,Brett Burns,HR,2015-04-28,32.3,48275.57,,7.0,1.3,High,2.7,0.0,1.0
+328,Trevor Johnson,HR,2017-08-29,48.4,31654.25,17.9,6.0,2.4,High,4.4,1.0,9.0
+329,Jeremy Sampson,Engineering,2016-08-22,48.8,50161.12,13.6,6.0,1.5,Medium,17.6,1.0,11.0
+330,Ariana Jennings,Sales,2012-02-22,37.5,101311.02,35.4,6.0,5.4,High,3.0,0.0,5.0
+331,Vanessa Howard,Engineering,2019-09-24,21.6,56780.87,14.1,4.0,5.1,Medium,8.3,1.0,6.0
+332,Colton Martinez,Marketing,2018-10-28,40.4,51999.43,35.3,6.0,2.8,Low,11.7,0.0,8.0
+333,Jordan Bates,Sales,2014-03-20,50.5,73269.51,36.7,10.0,1.4,Medium,14.8,1.0,15.0
+334,Linda Smith,Sales,2019-04-06,48.7,63407.98,17.8,4.0,0.9,Low,,0.0,16.0
+335,Dana Martinez,Sales,2019-04-10,42.3,60457.75,28.0,,0.3,High,15.4,0.0,18.0
+336,Andrea Hubbard,Sales,2013-10-12,49.2,61870.35,68.1,0.0,1.3,Very High,12.7,0.0,12.0
+337,Daniel Kane,Finance,2018-06-24,35.5,110437.33,4.4,8.0,1.6,Very High,7.6,1.0,4.0
+338,Charles Lester,Marketing,2011-12-03,41.3,46192.03,24.1,3.0,3.4,Very Low,10.9,1.0,
+339,Scott Thomas,Engineering,2021-08-17,28.2,573646.1230683089,61.4,4.0,3.2,Medium,13.0,0.0,11.0
+340,David Thompson,Sales,2011-06-21,37.9,,,5.0,0.2,Medium,13.9,1.0,7.0
+341,Allison Smith,Engineering,2020-01-23,48.3,,,3.0,1.5,High,13.2,0.0,15.0
+342,Cynthia Morris,Engineering,2011-08-25,29.1,89056.83,53.1,2.0,0.6,Medium,22.7,,17.0
+343,Anthony Harmon,Sales,2011-08-06,26.4,68242.08,,8.0,0.5,High,11.8,1.0,15.0
+344,Nichole Alvarez,Engineering,2011-06-28,36.0,42962.29,36.2,4.0,5.3,Low,14.5,0.0,10.0
+345,Kayla Rodriguez,Engineering,2012-10-12,32.7,100069.69,39.1,3.0,0.1,Medium,15.7,1.0,4.0
+346,Theresa Williams,HR,2012-10-18,41.5,,15.5,8.0,1.6,High,7.4,1.0,17.0
+347,Sharon Boyd,HR,2013-09-06,30.5,43266.14,,5.0,0.6,Low,7.6,1.0,4.0
+348,Victor Brown,Sales,2017-04-28,52.2,47186.43,56.7,6.0,6.3,Medium,12.4,1.0,11.0
+349,James Parks,Engineering,2012-10-27,22.1,61538.99,55.8,7.0,2.4,Very Low,28.6,1.0,4.0
+350,Theodore Jones Jr.,HR,2019-11-05,47.5,,29.7,10.0,0.8,Very High,5.6,1.0,12.0
+351,Ana Hill,Engineering,2014-02-18,27.4,68354.53,27.1,7.0,2.1,Medium,14.8,1.0,10.0
+352,Kimberly Nguyen,Finance,2010-07-21,18.0,61238.25,16.6,3.0,3.9,Medium,5.4,1.0,14.0
+353,Kerry Chavez DDS,Marketing,2016-12-12,37.4,,43.1,3.0,9.5,Medium,25.1,1.0,18.0
+354,Michael Farrell,Sales,2012-11-27,32.5,65774.1,4.1,7.0,0.7,Low,,,6.0
+355,Patricia Le,Sales,2023-01-23,23.9,51684.22,18.5,3.0,6.5,Medium,6.4,1.0,5.0
+356,Jesse Perez,HR,2014-08-18,18.2,,37.0,3.0,8.2,High,4.3,1.0,2.0
+357,Jesse Perry,Sales,2010-01-14,34.9,80751.27,34.1,3.0,7.4,High,13.4,1.0,13.0
+358,Jeffery Ortega,HR,2019-05-27,44.8,31928.82,28.1,8.0,3.0,High,8.3,1.0,14.0
+359,Christian Leblanc,IT,2022-09-10,40.8,67893.14,25.4,2.0,3.0,Medium,6.2,1.0,3.0
+360,Ronald Davis,HR,2021-09-09,35.6,48487.54,7.5,5.0,1.5,Medium,2.4,0.0,11.0
+361,Parker Cain,Engineering,2019-05-14,39.8,56372.52,56.3,4.0,4.2,High,25.1,1.0,4.0
+362,Laurie Hoffman,HR,2012-02-02,34.7,,17.8,2.0,2.3,Very High,1.6,1.0,13.0
+363,Bryan Gomez,Engineering,2011-04-06,20.7,58925.41,32.9,3.0,3.4,Medium,9.5,1.0,
+364,Nicole Parrish,Engineering,2017-02-28,20.8,64116.39,58.4,2.0,1.7,Low,,0.0,8.0
+365,Tracy Burke,IT,2020-02-16,33.0,55402.21,44.5,6.0,3.9,Low,23.7,,13.0
+366,Kenneth Lewis,Engineering,2011-06-02,33.4,64542.79,63.0,3.0,5.2,Low,40.0,1.0,10.0
+367,Courtney Rodriguez,IT,2013-08-01,43.5,39136.14,16.7,,0.5,Very Low,40.0,1.0,13.0
+368,Holly Farmer,Finance,2013-03-27,42.6,33349.71,23.6,5.0,5.4,Very Low,,1.0,13.0
+369,Renee Bruce,Sales,2023-11-03,41.1,,49.2,4.0,2.3,Very High,11.0,1.0,17.0
+370,Sabrina Austin,Sales,2014-02-22,32.2,40438.55,27.9,6.0,5.6,High,8.0,1.0,6.0
+371,Allison Hickman,Sales,2016-07-01,21.2,41519.1,14.5,6.0,1.7,Very Low,14.1,1.0,2.0
+372,Debra White,Sales,2011-05-26,39.1,32870.16,,6.0,1.4,High,7.9,1.0,17.0
+12,Jamie Arnold,IT,2013-10-04,40.7,62836.77,32.3,6.0,5.0,Medium,,0.0,18.0
+373,Ellen Morgan,Sales,2012-06-12,40.3,46582.05,22.9,7.0,7.4,High,9.3,1.0,12.0
+374,Sergio Knight,Marketing,2010-07-21,18.0,33422.16,30.4,10.0,0.9,Medium,10.8,1.0,6.0
+375,Charles Schultz,Sales,2014-01-25,26.7,89739.72,29.6,12.0,5.6,High,15.7,1.0,5.0
+376,Paul Lewis,Engineering,2021-03-21,28.1,81725.19,32.4,5.0,2.0,Low,24.9,1.0,5.0
+377,Glen Wood,Finance,2014-05-18,36.2,43114.3,17.7,7.0,2.2,Medium,6.5,0.0,9.0
+378,Paula Bradley,Sales,2020-05-03,27.0,,4.1,10.0,1.1,Very High,3.5,0.0,3.0
+379,Anthony Moore,Finance,2011-05-01,34.6,74954.47,35.9,2.0,2.6,High,4.1,1.0,5.0
+380,Megan Nelson,Engineering,2020-08-11,32.9,56701.8,,4.0,1.2,Low,4.1,1.0,7.0
+381,Karla Ramos,Sales,2010-08-23,33.4,24410.99,8.3,6.0,0.1,Medium,6.9,1.0,12.0
+382,Paul Wilson,Marketing,2021-12-04,27.8,97961.34,,4.0,1.0,High,3.3,0.0,7.0
+383,Douglas Gregory,HR,2019-04-15,28.6,28459.84,8.3,5.0,0.0,High,2.9,1.0,10.0
+384,Mr. Andrew Foster,Finance,2012-05-21,24.2,35195.52,47.4,3.0,11.5,Medium,11.1,1.0,8.0
+385,Aimee Turner,Marketing,2015-01-02,38.8,69781.82,13.9,3.0,10.1,Medium,3.7,1.0,17.0
+386,Chad Scott,Finance,2016-02-16,40.7,110079.82,36.1,,1.5,Very High,10.2,1.0,5.0
+387,Adam Burgess,Engineering,2018-09-14,27.3,91199.03,40.2,6.0,3.9,High,13.0,1.0,15.0
+388,James Padilla,Sales,2022-04-18,50.2,64249.87,,5.0,1.3,Medium,13.9,1.0,9.0
+389,Sandra Drake,Marketing,2011-04-21,31.9,58128.23,62.3,9.0,3.3,High,15.2,1.0,11.0
+390,Scott Williams,Finance,2021-05-29,50.3,70589.46,4.4,1.0,4.9,High,5.4,0.0,13.0
+391,Thomas Atkins,IT,2012-07-23,28.6,75840.09,46.3,5.0,8.8,Medium,14.8,0.0,18.0
+392,Laura Mckinney,Engineering,2015-08-11,18.0,66517.47,34.8,6.0,1.5,Medium,13.1,0.0,17.0
+393,Brian Smith,Engineering,2023-06-21,39.0,62582.07,50.8,,4.6,Low,13.4,1.0,9.0
+394,Robert Montgomery,Marketing,2013-10-21,37.5,48412.4,,8.0,0.9,Medium,7.2,0.0,10.0
+395,Tamara Davis,Engineering,2015-05-26,35.3,47201.43,35.2,4.0,13.9,Medium,,,5.0
+396,Dana Chapman,IT,2021-11-27,28.6,58253.63,23.9,6.0,0.1,Low,,0.0,
+397,Jennifer Collins,Finance,2021-03-13,34.7,29233.62,55.1,5.0,2.8,Medium,19.4,0.0,15.0
+398,Gary Jackson,Engineering,2019-01-30,29.9,59864.13,18.5,7.0,3.2,High,5.7,1.0,2.0
+399,Ashley Hicks,Marketing,2021-02-25,32.0,40487.22,43.9,4.0,3.5,Medium,22.0,0.0,14.0
+400,Hannah Luna,Marketing,2011-08-01,43.4,35217.89,,7.0,0.4,Medium,5.2,1.0,5.0
+401,Robin Young,Sales,2019-09-29,36.8,59119.84,60.8,4.0,8.4,High,14.5,1.0,6.0
+402,Craig Morrison,Finance,2010-10-27,41.1,81156.99,7.4,5.0,0.6,High,8.8,0.0,
+403,Mary Thompson,Engineering,2023-03-11,32.7,80350.89,7.6,5.0,2.9,High,3.9,1.0,4.0
+404,Kathleen Webster,Finance,2012-03-25,31.6,36408.88,21.1,,0.8,Medium,6.9,1.0,10.0
+405,Joann Glass,Engineering,2015-10-28,23.5,41112.12,,6.0,1.1,Very Low,38.9,1.0,19.0
+406,Madison Weber,Finance,2018-04-08,31.3,,39.9,5.0,2.4,High,2.5,0.0,9.0
+407,Lori Hernandez,Engineering,2021-03-25,18.0,42785.58,14.5,3.0,1.6,Low,40.0,1.0,10.0
+408,Jeremy Turner,Sales,2019-06-30,29.1,52166.76,4.5,3.0,0.5,Medium,1.4,1.0,4.0
+409,Anthony Romero,Finance,2012-07-15,34.2,62738.78,70.6,5.0,0.6,High,9.0,0.0,4.0
+410,Jesse Brown,Sales,2015-04-26,40.6,43338.43,,4.0,1.6,Low,4.4,0.0,6.0
+411,Angela Lin,Engineering,2015-01-08,32.3,60047.79,48.5,5.0,4.2,Low,24.0,1.0,8.0
+412,Lisa Hunter,IT,2010-05-28,38.5,40347.71,15.4,2.0,6.8,Medium,27.3,1.0,16.0
+413,Julian Conner,IT,2019-07-31,18.0,53163.2,,8.0,0.3,Medium,23.1,1.0,8.0
+414,Joanna Pacheco,HR,2021-09-26,34.4,43136.73,9.7,4.0,1.5,Medium,8.5,1.0,16.0
+415,Erica Alvarez,HR,2023-08-17,18.2,26216.93,65.1,1.0,0.3,Medium,8.6,0.0,6.0
+416,Antonio Garcia,Engineering,2011-10-30,22.9,68608.55,18.7,3.0,0.1,Low,,1.0,17.0
+417,Gwendolyn Klein,Engineering,2022-11-19,33.1,61767.84,8.6,6.0,3.3,Very Low,,1.0,1.0
+418,Carrie Wright,Engineering,2011-08-01,47.8,72360.79,55.9,7.0,2.8,Medium,,1.0,19.0
+419,Jeffrey Mills,Marketing,2015-10-04,38.7,51143.88,21.0,5.0,0.5,Very High,7.5,1.0,18.0
+420,Jake Campbell,Marketing,2010-08-24,35.2,74785.2,,3.0,0.8,Medium,7.1,1.0,17.0
+421,George Harper,Marketing,2013-08-30,34.8,54506.11,34.3,5.0,0.1,Medium,14.5,1.0,17.0
+422,Maria Jones,Marketing,2014-05-26,27.9,42713.89,31.4,4.0,5.4,Low,18.3,1.0,12.0
+423,Michael Mitchell,Sales,2019-11-11,29.6,59920.16,47.5,4.0,11.0,Medium,8.8,1.0,12.0
+424,Mary Escobar,Engineering,2019-06-28,39.3,69536.79,16.0,2.0,0.4,Very Low,40.0,1.0,6.0
+425,Felicia Aguilar,Sales,2020-09-28,21.1,55293.46,19.9,3.0,0.8,Medium,17.4,1.0,7.0
+426,Gregory Ponce,Engineering,2018-01-26,40.9,62971.56,33.1,4.0,6.1,Medium,16.5,1.0,
+427,Jenna Larson,Engineering,2017-11-28,31.1,52607.92,45.6,6.0,7.8,Medium,20.6,1.0,3.0
+428,Emily Bennett,Finance,2023-09-09,43.3,44909.45,,8.0,1.6,Medium,3.9,1.0,17.0
+429,Robin Santiago,Engineering,2019-05-18,44.6,39603.63,4.5,5.0,0.2,Low,,0.0,8.0
+430,Nancy Jennings,Sales,2014-09-26,18.3,95284.28,30.9,2.0,0.1,High,6.4,1.0,11.0
+431,Maria Henderson,Sales,2017-04-28,29.2,36315.77,23.3,3.0,2.6,Medium,7.7,1.0,18.0
+432,Jack White,Marketing,2019-10-22,26.4,41029.18,28.5,6.0,1.5,Low,9.5,1.0,16.0
+433,Travis Tucker,HR,2011-05-02,18.0,35353.83,24.8,6.0,0.1,Medium,14.7,1.0,13.0
+434,Chad Jones,Sales,2019-04-06,24.7,72831.29,25.7,9.0,2.6,High,13.4,0.0,9.0
+435,Ashley Wise,Sales,2013-06-24,59.4,50659.92,28.7,5.0,0.0,Medium,6.7,1.0,19.0
+436,Sophia Johnson,Marketing,2014-11-03,41.1,71808.3,48.0,3.0,4.6,Medium,12.3,0.0,7.0
+437,Ralph Anderson,Sales,2019-06-20,54.2,45187.23,,6.0,1.1,Low,16.0,0.0,17.0
+438,Christopher Guerra,Finance,2015-05-22,43.3,58498.12,21.4,4.0,0.1,Very High,16.2,1.0,8.0
+439,Rhonda Martin,Marketing,2021-09-29,27.6,42353.83,12.2,5.0,2.7,Medium,9.0,1.0,8.0
+440,Jason Rhodes,Sales,2017-10-25,31.2,106797.66,,4.0,1.5,Very High,6.4,,3.0
+441,Jeremy Mitchell,Sales,2023-10-29,40.9,38760.67,33.3,7.0,10.9,Very Low,40.0,1.0,16.0
+442,Joann Ferguson,IT,2010-10-06,-39.4,63259.59,12.9,9.0,2.4,Low,16.6,0.0,12.0
+443,Robert Harrison,Engineering,2019-01-03,29.2,75596.22,,6.0,1.0,Medium,8.8,1.0,15.0
+444,Holly Valentine,Engineering,2012-03-13,19.9,69012.65,33.5,5.0,3.7,Low,16.5,,4.0
+445,Mrs. Diane Reyes,Finance,2021-11-18,67.9,49708.55,13.9,2.0,1.0,Medium,5.2,0.0,7.0
+446,Tracy Montoya,IT,2021-12-03,33.6,59220.6,25.8,7.0,7.0,Low,30.0,1.0,11.0
+447,Brenda Wright,IT,2022-03-03,31.7,62442.43,5.1,2.0,1.4,Low,,1.0,5.0
+448,Shelly Spencer,Marketing,2011-01-18,36.1,45705.08,14.9,5.0,2.4,High,6.7,1.0,13.0
+449,Ryan Rosales,Engineering,2016-11-18,32.6,78089.4,19.4,5.0,0.2,Medium,31.2,1.0,11.0
+450,Phillip Nelson,Sales,2013-05-16,36.2,111431.73,,4.0,1.7,Very High,10.0,,5.0
+451,Brittany Kim,Marketing,2023-07-31,47.9,40101.86,8.6,2.0,5.4,Medium,8.5,1.0,8.0
+452,Courtney Hayes,HR,2010-09-15,33.8,29208.01,12.7,11.0,4.9,Medium,3.3,1.0,17.0
+453,Alexander Brown,Engineering,2013-02-12,23.4,55734.22,,5.0,0.8,Medium,8.2,0.0,11.0
+454,Cynthia Vang,Finance,2019-01-02,33.4,118702.59,50.4,8.0,0.8,Medium,26.7,1.0,19.0
+455,Alfred Galvan,Sales,2015-08-24,30.4,41874.1,42.6,10.0,5.1,Medium,20.0,0.0,18.0
+456,Marie Moody,Engineering,2013-04-16,49.2,,31.1,10.0,8.0,Medium,3.8,,10.0
+457,Dustin Gallegos,Sales,2016-06-04,46.7,,36.3,5.0,0.3,Medium,6.3,1.0,5.0
+458,Brenda Thornton,Engineering,2021-03-20,36.1,49991.76,,2.0,1.8,High,9.6,1.0,1.0
+459,Aaron Miller,Sales,2016-04-09,-22.2,66052.66,10.0,7.0,1.2,Very High,11.0,0.0,17.0
+460,Ruben Dunn,Sales,2021-12-27,22.7,93256.52,57.2,7.0,6.1,High,11.2,1.0,17.0
+461,Kelsey Rodriguez,Sales,2016-04-04,35.2,50525.03,37.7,10.0,0.3,Medium,29.1,0.0,1.0
+462,Eric Williams,HR,2011-08-30,38.4,40367.84,46.1,3.0,0.7,Medium,5.1,1.0,1.0
+463,Riley Bryant,Marketing,2016-12-17,31.3,45124.14,12.2,7.0,4.2,Very Low,,1.0,9.0
+464,Taylor Carlson,HR,2019-02-23,30.2,27603.34,,6.0,0.2,High,5.0,1.0,4.0
+465,Jose Allen,IT,2011-06-09,29.1,51648.13,45.2,2.0,2.0,Low,,0.0,9.0
+466,Jeffrey Mendez,Engineering,2015-10-09,34.8,42653.59,26.3,2.0,1.8,Medium,14.8,1.0,14.0
+467,Jason Beck,Engineering,2017-10-19,18.0,60108.2,23.7,3.0,1.2,Medium,14.1,1.0,15.0
+468,William Jones,Finance,2010-01-01,24.0,40140.44,53.4,4.0,1.5,Medium,16.8,1.0,16.0
+469,Katie Mcneil,Sales,2011-04-10,28.7,60091.46,24.5,2.0,2.3,Low,,1.0,16.0
+470,Jeanette Harrison,IT,2018-06-16,47.1,38728.03,,9.0,0.5,Medium,5.4,0.0,13.0
+471,Veronica King,Sales,2018-08-31,26.9,62001.89,53.7,7.0,2.5,Low,13.6,,14.0
+472,Richard Cooper,IT,2014-04-07,36.8,,58.4,8.0,4.9,High,11.7,1.0,9.0
+473,Lori Ingram,Sales,2017-02-11,37.3,28094.51,15.1,3.0,4.3,Low,7.3,1.0,9.0
+474,Evelyn Williams,Finance,2012-11-23,48.0,60302.35,22.9,7.0,0.5,Medium,8.4,1.0,4.0
+475,Robin Thompson,Engineering,2019-05-26,47.6,86055.98,,3.0,0.5,Medium,13.1,0.0,10.0
+476,Julie Dominguez,IT,2023-04-21,34.4,41649.52,,10.0,0.9,Medium,15.9,1.0,3.0
+477,Robin Brown,Sales,2015-02-01,-30.2,94883.48,13.9,4.0,1.3,Medium,5.2,0.0,9.0
+15,Dylan Miller,Sales,2019-05-06,26.2,41185.92,68.5,6.0,6.0,Very Low,9.5,1.0,
+478,Judith Carter,HR,2010-10-05,28.4,,41.0,7.0,1.6,Medium,3.6,1.0,19.0
+479,Curtis Williams,IT,2013-02-13,32.6,573646.1230683089,25.6,2.0,3.4,Medium,,1.0,16.0
+480,Kaylee Hays,Engineering,2016-05-12,30.7,60657.23,,2.0,0.2,Low,37.4,1.0,16.0
+481,Dawn Mullins,HR,2017-11-03,-40.5,50138.97,14.5,5.0,0.1,High,8.6,1.0,17.0
+482,Howard Norman,Marketing,2018-09-04,39.2,50959.98,,,1.5,High,12.7,0.0,18.0
+483,Evelyn Martinez,Engineering,2016-08-15,40.9,74496.69,40.9,6.0,3.6,High,13.4,0.0,10.0
+484,Steve Paul,HR,2019-03-14,47.6,29469.48,21.6,4.0,0.6,Medium,3.1,0.0,19.0
+485,Jasmine Beltran,HR,2020-01-08,53.6,45199.88,8.4,1.0,3.1,Medium,2.8,0.0,15.0
+486,Jonathan Glass MD,Finance,2011-08-06,36.2,37669.4,35.4,8.0,0.9,High,8.7,1.0,15.0
+487,Monica Miller,Sales,2020-08-17,46.0,50966.71,28.6,5.0,6.5,Low,23.0,0.0,11.0
+488,Samantha Gardner,Engineering,2013-02-07,31.5,47361.34,8.4,3.0,6.8,Low,8.8,1.0,8.0
+489,Bobby Guerrero,IT,2014-10-12,46.9,46168.68,54.4,4.0,1.1,Medium,,1.0,16.0
+490,Lance Simmons,Finance,2021-08-13,45.6,77967.64,22.2,3.0,0.8,Medium,3.1,1.0,10.0
+491,Heather Williams,Engineering,2023-07-02,45.1,85706.41,52.0,3.0,1.6,Medium,18.0,1.0,9.0
+492,Heather Bolton,HR,2014-02-01,35.9,49047.76,36.8,4.0,0.8,Medium,6.8,1.0,15.0
+493,William Gould,Engineering,2017-04-22,28.3,42803.07,56.1,4.0,3.3,Medium,13.6,0.0,5.0
+494,Mark Cox,Sales,2019-10-30,21.1,51337.19,4.8,5.0,5.2,Low,4.1,1.0,2.0
+495,Meghan Cisneros,Engineering,2010-08-23,34.6,,32.1,3.0,3.4,Medium,28.9,1.0,16.0
+496,Lawrence Harrington,Engineering,2012-04-19,50.3,61765.68,67.8,6.0,5.2,High,17.1,,18.0
+497,Austin Osborne,HR,2011-12-19,31.9,84915.38,14.9,4.0,1.5,Low,,0.0,16.0
+498,James Bradley,Sales,2020-01-13,42.9,61136.54,30.1,6.0,0.5,High,,1.0,5.0
+499,Meghan Rush,IT,2020-02-06,43.4,63646.31,11.5,6.0,4.0,Very Low,,,1.0
+500,Phillip Berry,IT,2011-07-01,32.2,54540.31,64.3,5.0,1.3,Very High,3.4,1.0,
+501,Jennifer Banks,Marketing,2018-07-20,48.2,47572.94,23.5,7.0,3.3,Medium,6.3,1.0,10.0
+502,Brian Fitzgerald,Engineering,2012-08-16,18.0,57181.19,32.0,5.0,0.9,Medium,8.0,1.0,13.0
+503,Mr. Justin Green III,Engineering,2023-01-08,22.8,78167.19,26.2,6.0,0.3,Low,3.6,1.0,11.0
+504,Zachary Mitchell,Finance,2015-07-02,25.8,69886.59,49.6,4.0,14.7,Medium,11.1,1.0,15.0
+505,Katherine Martinez,Marketing,2016-05-25,26.8,37794.74,17.3,8.0,0.5,Medium,15.4,1.0,2.0
+506,Jodi Roach,Sales,2020-12-08,38.4,38736.51,32.3,11.0,13.4,Medium,5.3,0.0,6.0
+507,Brandon Fleming,Finance,2020-01-13,37.9,32650.78,32.2,6.0,11.4,Medium,1.7,1.0,
+508,Emma Reed,Finance,2011-07-05,38.9,62296.75,8.4,3.0,4.7,Medium,3.5,1.0,15.0
+509,Joshua Vance,IT,2015-10-20,41.0,41052.95,5.6,4.0,3.2,High,11.3,0.0,
+510,Michelle Ho,Marketing,2022-12-20,25.5,28541.82,34.8,8.0,2.6,Medium,8.6,1.0,12.0
+511,Rebecca Hicks,HR,2021-09-21,22.8,50297.28,7.6,6.0,6.0,Very High,4.7,0.0,4.0
+512,Curtis Taylor,Engineering,2018-03-30,39.0,131406.86,23.4,5.0,1.0,Medium,22.2,0.0,14.0
+513,Allison Spencer,IT,2020-10-22,28.7,58888.56,13.7,6.0,1.9,Medium,12.6,1.0,3.0
+514,Robert Arnold,Finance,2016-04-21,19.3,67729.03,30.3,4.0,2.9,High,13.5,1.0,17.0
+515,Angelica Parker,Sales,2019-03-21,-44.7,56114.07,42.3,5.0,1.6,Low,7.1,0.0,13.0
+516,Dr. Kelly Hammond DVM,Sales,2023-05-21,49.0,55771.07,42.1,14.0,1.7,Low,9.7,1.0,8.0
+517,William Day,Engineering,2011-11-20,50.6,81566.87,,4.0,1.2,High,24.0,1.0,12.0
+518,Michael Cooper,Finance,2016-12-25,36.9,52229.0,32.6,6.0,2.5,Low,10.5,0.0,12.0
+519,Penny Bowman,IT,2017-06-04,41.3,65039.09,46.9,2.0,5.7,Very Low,40.0,1.0,12.0
+520,Vincent Reynolds,Sales,2010-09-06,48.7,59079.56,32.5,5.0,0.7,Very High,5.9,1.0,2.0
+521,Amy Martinez,HR,2023-02-03,28.6,36203.94,22.2,5.0,8.2,Low,7.7,0.0,10.0
+522,Christopher Morris,Engineering,2021-09-28,46.1,,6.3,4.0,3.5,High,9.0,1.0,9.0
+523,Hannah Everett,IT,2016-10-04,37.8,55049.05,51.2,3.0,5.2,Medium,10.0,0.0,1.0
+524,Sarah King,Finance,2017-02-11,44.1,43484.55,66.4,6.0,2.4,Very Low,16.5,1.0,4.0
+525,Krista Martinez,Finance,2022-11-22,36.9,67330.75,21.6,5.0,4.5,Medium,8.2,1.0,14.0
+526,Joseph Shaw,Engineering,2012-06-24,48.0,53018.18,20.6,7.0,0.0,Medium,,0.0,16.0
+527,Todd Moore,Engineering,2018-02-05,37.2,63009.69,6.7,8.0,5.1,High,9.8,1.0,18.0
+528,Michelle Jacobs,Engineering,2020-03-23,20.2,60742.2,,6.0,0.1,High,11.2,1.0,2.0
+529,Kristy Bryan,Sales,2011-10-19,49.5,,28.4,5.0,6.6,High,3.3,1.0,6.0
+530,Angel May,Finance,2015-06-04,25.5,63951.02,20.9,8.0,14.5,High,7.8,1.0,3.0
+531,Marilyn Wang,Finance,2018-05-28,47.5,52878.2,13.5,9.0,1.0,Medium,3.4,0.0,19.0
+532,Mark Jimenez,IT,2022-05-10,34.1,,,3.0,0.7,Low,12.6,1.0,13.0
+533,Donna Frye,IT,2017-01-21,46.8,89726.84,26.8,5.0,4.3,Low,24.7,1.0,17.0
+534,Dr. Michael Evans,HR,2015-05-21,46.3,50253.34,,2.0,0.9,Low,1.3,1.0,14.0
+535,Anthony Gonzales,Marketing,2023-09-17,39.3,573646.1230683089,51.6,6.0,6.0,Low,40.0,1.0,11.0
+536,Mr. Lawrence Edwards,IT,2022-10-27,40.1,40529.85,1.6,9.0,0.3,Low,6.7,1.0,16.0
+537,Morgan Valencia,Finance,2020-09-02,39.2,40852.18,45.6,5.0,0.4,Medium,7.0,1.0,11.0
+538,Bianca Wood,Sales,2013-10-30,18.0,50206.69,20.0,7.0,11.6,Medium,13.5,1.0,18.0
+539,Emma Owens,Engineering,2023-06-27,36.2,49919.57,25.8,7.0,3.4,Medium,8.6,1.0,2.0
+540,David Davis,Sales,2023-08-02,23.8,51098.57,36.2,3.0,5.6,High,8.3,1.0,8.0
+541,James Gilbert,IT,2016-05-03,36.7,60712.24,28.7,5.0,1.2,Low,,0.0,14.0
+542,Sean Moore,HR,2011-11-13,23.6,,22.3,5.0,3.4,High,7.9,1.0,2.0
+543,Kenneth Edwards,Sales,2015-10-11,23.2,56109.7,19.9,4.0,2.7,Medium,9.4,1.0,13.0
+544,Kathleen Robertson,Marketing,2019-10-19,51.0,60072.86,26.0,5.0,2.8,Medium,10.3,1.0,10.0
+545,Mr. Alexander Landry MD,HR,2020-06-22,45.7,,45.5,4.0,3.4,Very High,7.3,1.0,8.0
+546,Cindy Gomez,Engineering,2014-03-09,35.0,35214.89,36.2,8.0,2.6,Very Low,24.3,0.0,7.0
+547,Johnny Khan,Sales,2019-10-27,36.8,40346.44,,7.0,1.7,High,16.1,1.0,13.0
+548,Julie Herrera,Marketing,2022-01-17,32.5,46172.76,56.0,6.0,1.0,Medium,16.2,0.0,
+549,Jessica Khan,Engineering,2019-12-19,40.7,44017.73,9.9,,4.4,Medium,11.6,1.0,15.0
+550,Pamela Diaz,Marketing,2023-02-04,28.2,60385.5,48.8,10.0,0.8,Very High,11.1,1.0,2.0
+551,Kelly Lee,Engineering,2018-11-08,44.9,96402.61,38.5,4.0,3.5,Very Low,31.5,1.0,5.0
+552,Angel Gordon,Finance,2012-10-23,32.5,,8.5,9.0,0.8,Low,26.1,1.0,19.0
+553,Diana Hays,HR,2018-09-26,30.8,36047.46,47.0,9.0,2.9,Low,6.3,1.0,1.0
+554,Barbara Hester,HR,2014-01-25,35.2,,39.5,9.0,4.1,High,2.5,1.0,7.0
+555,Robert Morgan,Finance,2014-11-01,29.1,58163.06,,3.0,0.7,Medium,5.3,,18.0
+556,Nicole Gonzalez,Engineering,2019-05-31,38.3,56532.84,,3.0,0.2,Medium,,0.0,1.0
+557,Kathryn Williams,Sales,2023-09-26,29.6,47899.84,26.9,8.0,0.4,Medium,2.6,1.0,1.0
+558,Gary Wells,Sales,2019-02-06,39.7,51583.27,17.4,,2.8,Low,16.8,1.0,7.0
+559,Larry Robertson,Marketing,2023-05-31,47.2,43646.16,33.3,9.0,5.7,Medium,14.1,1.0,17.0
+560,Louis Martin,HR,2017-01-19,27.8,42532.69,10.5,2.0,0.1,Medium,3.2,1.0,6.0
+561,Nancy Evans MD,Marketing,2019-09-20,33.7,52837.7,60.5,6.0,4.0,Low,14.8,1.0,12.0
+562,Kim Erickson,Sales,2014-07-07,39.6,57267.41,28.9,2.0,1.3,Very High,9.0,0.0,15.0
+563,Robert Richardson,Sales,2011-08-13,30.6,65253.73,22.3,9.0,2.0,Medium,3.3,0.0,13.0
+564,Veronica Silva,Sales,2014-12-06,39.6,79523.91,39.6,6.0,7.9,Very Low,17.0,1.0,12.0
+565,Molly Watts,Engineering,2016-09-21,40.6,77164.92,58.0,1.0,1.2,Low,,0.0,2.0
+566,John Coffey,HR,2017-12-27,45.8,,17.3,3.0,1.9,Low,3.2,0.0,18.0
+567,Paula Lane,Engineering,2019-05-04,28.9,27522.61,41.4,4.0,0.0,Low,,1.0,4.0
+568,Lauren Jackson,Engineering,2015-11-05,25.6,,29.5,4.0,0.3,Medium,16.9,1.0,10.0
+569,Lisa Randall,Finance,2020-06-20,31.9,37170.62,,6.0,0.9,High,1.2,,11.0
+570,Michael Johnson,Engineering,2021-10-11,25.3,56496.38,2.8,8.0,0.1,Low,31.1,0.0,6.0
+571,Ashley Smith,Engineering,2014-01-01,40.6,45255.72,34.6,5.0,3.0,Low,28.5,1.0,6.0
+572,Christian Vaughn,Marketing,2021-11-10,23.4,29783.83,,11.0,1.7,Low,17.5,,
+573,Reginald Knapp,Engineering,2021-04-25,58.3,73450.78,50.2,9.0,2.4,Medium,10.0,,13.0
+574,Nancy Brown,HR,2017-04-26,48.0,,41.3,5.0,0.6,High,7.9,1.0,5.0
+575,Daniel Nguyen,Finance,2010-05-10,35.1,47782.58,23.7,4.0,1.1,Medium,7.8,1.0,6.0
+576,Kelly Edwards,IT,2012-01-13,43.7,27560.78,15.5,3.0,3.3,Medium,11.5,1.0,4.0
+577,Thomas Peterson,Sales,2019-05-20,18.6,47114.42,8.2,12.0,10.1,Medium,,1.0,6.0
+578,Raymond Le,IT,2012-10-18,60.2,66448.86,42.2,5.0,0.2,High,14.8,1.0,18.0
+579,Melissa Bishop,Engineering,2020-07-01,29.1,35766.8,36.6,12.0,6.6,Medium,13.1,1.0,13.0
+580,David Grant,Engineering,2012-04-02,33.8,65558.41,27.4,4.0,2.6,High,11.9,0.0,3.0
+581,William Evans,Engineering,2014-01-05,18.0,58936.47,14.8,5.0,2.5,High,5.9,1.0,10.0
+582,Daniel Bush,IT,2013-07-04,39.9,67284.75,6.9,3.0,2.1,Medium,14.2,1.0,4.0
+583,Gregory Peck,Engineering,2021-09-30,23.9,60469.41,60.3,3.0,0.2,Very Low,,1.0,15.0
+584,Denise Martinez,Engineering,2019-09-01,36.0,47988.0,,5.0,0.3,Low,13.9,1.0,12.0
+585,Jamie Baird,HR,2014-02-17,29.6,58403.59,64.4,,2.8,Medium,9.4,1.0,15.0
+586,Tina Ballard,Sales,2020-07-19,24.2,56823.05,59.1,8.0,1.3,Low,13.4,1.0,
+587,Dwayne Klein,Sales,2010-06-15,27.0,54842.43,30.0,6.0,7.5,High,9.2,0.0,12.0
+588,Jeremy Scott,Sales,2021-05-24,37.3,39192.61,14.5,4.0,1.6,Low,,1.0,8.0
+589,Dale Ryan,Sales,2011-06-08,22.2,47121.11,21.4,2.0,0.5,High,4.3,1.0,3.0
+590,Melissa Taylor,Sales,2022-02-24,27.5,45702.97,16.3,8.0,3.8,Medium,3.3,1.0,7.0
+591,Laurie Sanchez,Sales,2020-05-08,41.6,53211.81,17.0,7.0,1.0,Low,,1.0,18.0
+592,Kiara Little,HR,2022-02-08,61.0,,36.2,3.0,2.2,Very High,4.9,1.0,3.0
+593,Jason Love,Sales,2020-05-23,39.8,37673.9,14.2,3.0,3.6,High,7.8,1.0,15.0
+594,Randy Smith,Engineering,2017-11-09,25.8,38766.19,33.5,8.0,6.9,Very Low,40.0,1.0,2.0
+595,Tanya Russell,Finance,2013-04-29,31.3,86074.44,11.2,5.0,4.7,High,12.0,1.0,15.0
+596,Sherry Woods,Engineering,2020-12-23,35.3,60443.37,29.8,6.0,3.4,High,8.8,1.0,13.0
+597,Victor Morris,Marketing,2021-03-07,31.5,39386.34,28.0,9.0,3.4,Medium,20.0,1.0,10.0
+598,Susan Davis,Sales,2014-01-10,44.0,74361.2,61.5,4.0,8.8,Medium,,1.0,8.0
+599,Kimberly Sharp,Sales,2019-04-20,37.2,46181.27,10.3,5.0,1.1,Very High,0.9,0.0,16.0
+600,Susan Thompson,Sales,2022-12-20,44.1,98016.39,18.1,6.0,0.0,Low,11.9,1.0,16.0
+601,Casey Gillespie,Sales,2015-06-05,31.9,67160.72,19.7,7.0,1.0,Medium,5.1,1.0,2.0
+602,Jennifer Simpson DVM,Engineering,2023-05-23,48.3,51018.06,44.2,3.0,0.7,Medium,15.8,1.0,9.0
+603,Tammy Mcdowell,Sales,2023-08-29,33.3,108371.37,29.3,4.0,3.3,Medium,40.0,1.0,8.0
+604,Keith Rodriguez,Sales,2014-05-18,25.3,46909.49,37.5,4.0,3.0,High,21.1,,11.0
+605,Mrs. Virginia Daniels,Sales,2017-09-23,56.8,70496.72,31.2,1.0,2.7,High,,0.0,1.0
+606,Todd Rosales MD,Engineering,2010-03-08,18.0,65515.41,11.1,5.0,0.0,Medium,13.3,1.0,11.0
+607,Brian Martin,Sales,2013-07-08,27.6,573646.1230683089,17.1,4.0,3.9,High,21.2,1.0,18.0
+608,David Lopez,Engineering,2018-09-08,28.7,96041.26,39.6,1.0,1.2,Medium,12.0,1.0,15.0
+609,Rachel Bradley,Engineering,2020-12-06,60.1,63647.56,34.8,3.0,3.3,High,17.8,1.0,9.0
+610,Casey Chase,Marketing,2022-03-07,53.1,41174.29,21.3,7.0,2.4,High,16.9,0.0,9.0
+611,Samantha Robertson,Sales,2021-08-13,49.9,61022.97,,0.0,1.3,High,18.0,0.0,1.0
+612,Michael Lopez,Marketing,2022-10-04,31.7,38143.0,12.5,9.0,0.4,Medium,2.7,,7.0
+613,Franklin Wright,HR,2019-11-12,59.3,73235.94,,5.0,0.3,Medium,15.4,1.0,12.0
+614,David Molina,Sales,2019-01-24,38.7,57430.93,16.6,4.0,5.3,Low,5.1,1.0,10.0
+615,Elizabeth Sharp,Finance,2020-07-27,44.8,48158.58,61.7,0.0,7.5,Low,35.6,1.0,19.0
+616,Matthew Schwartz,IT,2017-08-26,36.8,59276.79,75.8,6.0,3.1,Low,24.5,0.0,16.0
+617,Bryan Parker,Sales,2018-06-12,34.5,35788.81,,6.0,0.3,Low,18.3,1.0,6.0
+618,Jonathan Jacobson,Engineering,2020-11-11,32.5,43774.68,42.3,2.0,1.5,Low,10.7,1.0,11.0
+619,Emily Wilson,Finance,2023-07-01,32.9,,35.2,3.0,3.9,Medium,5.8,1.0,
+620,Elizabeth Mendez,Marketing,2014-02-12,41.1,40391.36,44.9,5.0,4.5,Low,28.3,1.0,19.0
+621,Casey Hernandez,Sales,2012-06-26,38.7,39735.73,66.3,7.0,0.4,Low,,1.0,18.0
+622,Lisa Perry,Sales,2019-07-22,34.7,66574.96,29.3,5.0,0.0,Medium,10.5,1.0,15.0
+623,Kaitlin Medina,Engineering,2012-08-13,50.1,86359.47,3.2,5.0,3.7,High,12.5,0.0,
+624,Colleen Wright,Engineering,2012-06-07,18.0,75482.6,34.4,6.0,1.3,Medium,14.4,,14.0
+625,Shelley Miller,HR,2017-03-11,40.1,59525.74,52.1,3.0,0.9,Medium,11.4,1.0,8.0
+626,Michael Miller,Engineering,2015-04-13,42.2,51511.16,5.7,5.0,0.0,Low,30.7,1.0,8.0
+627,Amy Kelley,Engineering,2015-12-31,46.5,37399.46,61.9,4.0,2.3,High,23.7,1.0,2.0
+628,Laura Hernandez,Marketing,2017-10-16,34.4,,67.2,3.0,5.7,High,12.7,1.0,
+629,Joseph Wilson,Sales,2011-10-27,37.1,52795.32,48.8,7.0,9.5,Medium,11.5,1.0,13.0
+630,Kevin Davis,Engineering,2018-03-05,44.9,54537.68,9.2,4.0,2.5,Very Low,40.0,1.0,13.0
+631,Rhonda Chavez,Marketing,2013-07-27,49.9,,27.5,7.0,2.2,High,4.4,0.0,12.0
+632,Joyce Brown,Finance,2014-08-17,32.0,66791.11,14.6,6.0,0.3,High,5.8,0.0,2.0
+633,Robert Cummings,Engineering,2019-12-07,37.7,68011.53,35.7,4.0,2.4,Medium,20.9,0.0,12.0
+634,Robert Reese,Engineering,2012-03-02,51.8,,12.8,4.0,1.4,Medium,4.4,1.0,17.0
+635,Amber Cooper,Sales,2012-02-25,18.0,48512.03,53.2,3.0,2.8,Low,9.4,0.0,6.0
+636,Zachary Michael,Engineering,2014-07-08,28.1,,23.6,5.0,1.5,Medium,,1.0,7.0
+637,Timothy Johnson,Engineering,2010-09-17,49.7,63436.03,21.6,4.0,0.8,Medium,,0.0,6.0
+638,Randy Cannon,Sales,2023-01-19,45.9,61785.61,19.8,10.0,0.3,Medium,6.5,1.0,4.0
+639,Maria Fisher,Engineering,2018-08-13,40.2,97705.55,18.8,8.0,1.1,High,10.5,1.0,9.0
+640,Janet Kane DVM,Engineering,2019-04-07,30.5,573646.1230683089,25.4,2.0,0.3,Medium,5.6,1.0,5.0
+641,Michael Stanley,Sales,2016-11-12,26.2,68348.61,4.4,3.0,0.6,Very High,7.2,0.0,10.0
+642,Martha Bailey,Engineering,2018-01-06,29.1,,42.3,7.0,13.1,Medium,,0.0,15.0
+643,Joshua Rice,Sales,2015-01-05,50.5,50068.88,16.4,4.0,1.8,High,14.0,1.0,8.0
+644,Courtney Smith,Engineering,2020-12-21,28.7,47550.79,43.5,6.0,2.3,Low,13.3,1.0,4.0
+645,Edwin Nunez,Sales,2014-06-13,36.0,38142.96,47.8,4.0,6.2,High,6.3,1.0,5.0
+646,Kim Morrow,Finance,2013-01-29,27.5,30922.21,52.6,,16.3,Medium,9.7,1.0,7.0
+647,Gregory Hill,HR,2012-07-28,43.4,,36.3,5.0,2.6,High,5.3,1.0,6.0
+648,Molly Rodriguez,Marketing,2010-12-15,29.6,35083.93,34.1,9.0,5.0,Medium,16.2,0.0,13.0
+649,Jennifer Miranda,Marketing,2017-01-26,34.0,48121.34,50.4,4.0,1.2,Medium,11.5,,19.0
+650,Alexis Harris,Engineering,2015-10-28,18.2,55724.8,,1.0,1.1,Low,18.1,1.0,10.0
+651,Andrew Harper,Sales,2017-07-08,18.9,62949.32,35.6,4.0,1.5,Medium,25.0,0.0,15.0
+652,Amber Yang,Engineering,2011-04-16,35.1,76226.37,41.5,6.0,3.3,Low,,1.0,3.0
+653,David Robinson,HR,2013-02-04,21.7,,61.0,3.0,3.4,Medium,7.3,1.0,18.0
+654,Amy Gordon,Marketing,2012-12-26,56.1,40805.31,65.9,4.0,1.1,Low,12.3,1.0,14.0
+655,Robert Dennis,Engineering,2014-08-24,18.0,58730.19,7.0,10.0,0.4,Low,14.1,0.0,3.0
+656,Kyle Chambers,Sales,2015-01-19,27.0,60622.33,46.2,9.0,3.0,Medium,8.5,1.0,11.0
+657,Eric Thomas,Engineering,2013-01-21,35.2,56607.79,11.8,,0.4,Medium,28.3,1.0,10.0
+658,Connie Turner,Engineering,2020-07-14,31.3,100897.13,29.4,7.0,2.6,Medium,,0.0,17.0
+659,Travis Hobbs,HR,2017-06-04,24.0,,13.7,,3.5,Medium,4.8,0.0,13.0
+660,Lori Simmons,HR,2023-12-13,25.4,48732.04,21.7,6.0,3.6,High,6.0,1.0,2.0
+661,William David DDS,Engineering,2021-07-12,25.1,78256.9,9.1,2.0,4.2,Low,33.4,1.0,13.0
+662,Emma Butler,IT,2023-09-25,32.1,86410.15,48.6,3.0,6.2,Medium,31.8,1.0,19.0
+663,James Webster,HR,2010-02-15,54.5,41408.55,39.0,13.0,2.1,Medium,3.0,1.0,5.0
+664,Samuel Turner,Sales,2019-05-13,35.8,39584.06,68.1,5.0,3.9,High,8.2,1.0,16.0
+665,Renee Melendez,Sales,2016-03-28,46.8,62549.52,45.5,2.0,2.9,Low,11.3,1.0,10.0
+666,Tracy Grant,Sales,2022-08-29,40.1,46894.51,7.3,6.0,0.6,Medium,4.3,1.0,12.0
+667,David Harris,Sales,2018-08-04,46.1,48695.16,51.0,6.0,0.1,Low,12.8,1.0,13.0
+668,Tammy Boone,Sales,2018-09-11,18.0,66747.49,15.4,,1.0,Medium,6.5,1.0,16.0
+669,Nathaniel Lee,Sales,2023-06-03,32.0,80168.23,,,1.8,High,14.1,1.0,1.0
+670,Michael Morrison,Engineering,2019-07-22,48.1,60287.2,11.8,10.0,2.9,Medium,10.1,0.0,9.0
+671,Chelsea Gill,Sales,2014-06-29,29.3,573646.1230683089,62.1,9.0,5.7,Medium,10.3,,16.0
+672,Kristin Mendoza,Finance,2022-10-27,52.6,,15.3,4.0,0.7,High,8.9,1.0,19.0
+673,Felicia Krueger,Sales,2023-03-24,49.8,60461.87,17.5,3.0,0.4,High,,1.0,15.0
+674,Timothy Hayden,Engineering,2015-05-27,30.3,132307.89,58.9,6.0,9.9,High,26.0,1.0,18.0
+675,Zachary Mendoza,Engineering,2017-07-24,30.0,73969.64,20.8,7.0,0.3,High,15.6,1.0,12.0
+676,Larry Harris,IT,2013-12-16,24.9,37660.54,56.5,5.0,2.0,Low,3.9,1.0,14.0
+677,Kristen Rowe,Sales,2022-10-03,-28.7,69509.05,27.8,4.0,2.6,Very High,7.9,1.0,3.0
+678,Joseph Howard,Engineering,2021-07-04,22.7,69177.89,21.9,6.0,2.3,Very High,10.1,1.0,4.0
+679,Jose Crawford,IT,2015-04-01,39.3,87616.02,5.5,5.0,0.3,High,21.5,0.0,6.0
+680,William Harrison,Finance,2021-03-27,20.4,66934.41,44.6,5.0,0.2,Low,8.4,1.0,16.0
+681,Suzanne Wood,Finance,2016-03-27,41.0,51880.89,62.0,1.0,0.3,Medium,10.5,1.0,13.0
+682,Justin Walker,Engineering,2010-08-13,41.3,43925.68,32.1,6.0,2.6,High,9.4,1.0,12.0
+683,Dean Donovan,Sales,2022-07-29,18.4,53911.94,63.2,4.0,2.4,Low,,1.0,12.0
+684,Jennifer Hernandez,Marketing,2012-09-11,50.5,35505.77,,4.0,0.8,High,10.4,1.0,2.0
+685,James Whitaker,IT,2017-03-12,40.1,51160.98,38.0,2.0,3.0,High,8.2,1.0,13.0
+686,Mr. Michael Scott PhD,HR,2023-04-10,42.5,51489.21,22.3,5.0,5.1,Medium,2.9,0.0,3.0
+13,Lisa Hensley,Finance,2010-11-12,18.3,58179.84,14.7,4.0,0.5,High,2.9,0.0,6.0
+687,Maria Henry,HR,2012-05-05,27.4,,,4.0,0.1,Medium,9.9,1.0,13.0
+688,Robert Jackson,Engineering,2023-05-21,41.2,69054.02,22.3,9.0,2.1,Medium,8.4,0.0,2.0
+689,Katherine Stark,Marketing,2017-07-13,46.3,35609.58,33.5,4.0,3.5,Medium,5.7,1.0,19.0
+690,Maria Brown,Sales,2010-02-07,34.0,63999.01,,0.0,0.9,Medium,5.0,0.0,9.0
+691,Ryan Landry,Engineering,2010-12-01,55.0,,55.1,11.0,1.1,High,26.8,1.0,1.0
+692,Pamela Gutierrez,Engineering,2019-05-20,35.4,55759.77,62.4,,2.9,Very High,11.0,0.0,13.0
+693,Crystal Mann,Engineering,2020-10-29,-46.4,57289.29,8.8,7.0,6.8,Very Low,,1.0,2.0
+694,Jonathan Brooks,Sales,2022-02-08,37.9,53860.79,48.4,6.0,5.0,Very Low,16.1,1.0,15.0
+695,Mary Jensen,Sales,2015-12-09,40.9,45154.3,29.3,3.0,2.6,Medium,5.4,0.0,19.0
+696,Mr. Aaron Arnold,HR,2011-06-16,18.3,,32.7,5.0,3.9,Low,8.0,,16.0
+697,Joseph Hill,Engineering,2017-07-11,38.7,58630.76,33.3,6.0,1.4,Low,39.7,1.0,11.0
+698,Alicia Li,HR,2019-11-02,27.7,50162.8,12.3,3.0,3.1,High,4.3,1.0,15.0
+699,Renee Browning,Sales,2023-08-31,26.5,40519.27,,5.0,1.9,Medium,,1.0,6.0
+700,Brent Hernandez,Engineering,2020-11-06,52.4,55125.47,16.7,8.0,0.6,Medium,,1.0,14.0
+701,Joseph Ochoa,Engineering,2019-01-19,32.9,,11.1,6.0,3.6,Medium,9.7,1.0,6.0
+702,James Watson,Sales,2023-02-26,25.0,53847.1,44.1,7.0,2.4,Very Low,40.0,1.0,19.0
+703,Karl Branch,Engineering,2020-06-15,31.4,,44.6,4.0,1.3,High,6.5,1.0,5.0
+704,Michael Abbott,Sales,2012-02-25,22.0,48471.33,52.7,3.0,7.3,Medium,10.4,1.0,11.0
+705,Shannon Malone,Sales,2016-06-05,49.3,59205.71,23.4,8.0,0.1,High,10.6,1.0,4.0
+706,James Tran,IT,2014-08-23,28.0,79534.9,59.3,1.0,1.1,Low,,1.0,9.0
+707,Adam Jackson,Engineering,2011-03-24,40.3,39265.72,27.4,5.0,0.2,Low,,0.0,9.0
+708,Mr. Richard Knight PhD,Finance,2010-10-05,48.6,31704.28,55.6,6.0,4.4,Low,11.3,1.0,17.0
+709,Joseph Williams,Engineering,2021-02-12,30.0,38822.51,51.6,5.0,3.6,Very Low,10.2,1.0,8.0
+710,Sean Clay,Marketing,2017-10-23,40.3,67755.28,20.2,5.0,1.2,Medium,8.8,1.0,15.0
+711,Anthony Jones,Marketing,2018-01-18,24.7,41513.59,22.4,5.0,3.4,Low,5.8,0.0,9.0
+712,Stephanie Elliott,HR,2013-03-09,59.5,,31.7,5.0,1.5,High,8.5,0.0,5.0
+713,Timothy Edwards,Engineering,2013-08-15,44.4,50747.69,66.8,6.0,4.2,Very Low,,1.0,4.0
+714,Laurie Goodwin,Engineering,2015-06-07,33.1,67651.51,22.9,5.0,1.8,Very Low,,1.0,18.0
+715,Jennifer Jones,Engineering,2018-10-27,27.3,94808.62,33.6,5.0,1.6,Medium,12.9,1.0,9.0
+716,David Davenport,IT,2016-01-23,33.9,109008.58,37.3,8.0,8.2,Low,5.1,1.0,3.0
+717,Steven Rivera,Finance,2010-03-28,31.6,,,3.0,0.9,Very High,6.5,0.0,9.0
+718,Brenda Hinton,IT,2019-06-04,54.5,,57.5,5.0,0.4,Low,,1.0,9.0
+719,Kathryn Mccann,Sales,2017-06-27,22.7,,21.8,3.0,2.6,Medium,6.3,,4.0
+720,Jeffrey Roberson,Marketing,2018-12-23,36.3,59237.23,39.4,3.0,10.5,Low,10.6,1.0,7.0
+721,Randy Friedman,IT,2018-08-28,34.8,75438.53,37.7,7.0,1.4,High,,1.0,7.0
+722,Raymond Johnson,Sales,2020-07-31,33.8,49718.46,44.7,4.0,0.2,Medium,8.2,0.0,8.0
+723,Willie Henry,Sales,2018-03-13,33.9,43441.23,,4.0,1.2,Low,12.6,0.0,1.0
+724,Todd Reynolds,Marketing,2019-10-23,33.8,47746.73,18.0,2.0,2.1,Medium,4.6,1.0,9.0
+725,Mary Miller,HR,2011-01-07,43.7,37423.41,56.6,6.0,0.5,High,13.3,1.0,12.0
+726,Rebecca Marquez,Finance,2022-12-28,41.1,45416.86,2.6,3.0,3.2,Medium,5.7,1.0,6.0
+727,Christian Dawson,Sales,2011-06-27,39.2,75370.13,34.1,7.0,18.3,Medium,13.3,0.0,13.0
+728,Nancy Stewart,Marketing,2021-01-05,18.0,67779.19,29.1,7.0,1.8,Medium,2.2,0.0,5.0
+729,Aaron Parker,Sales,2014-03-21,38.0,55186.93,40.9,8.0,1.3,Low,5.3,1.0,19.0
+730,Derrick Anderson,Sales,2011-03-19,18.4,85173.01,20.3,6.0,1.5,Medium,21.5,1.0,1.0
+731,Jerry Peters,Sales,2020-09-17,41.5,40988.56,40.1,7.0,0.4,Medium,8.5,1.0,
+732,Alexander Gomez,Finance,2016-02-16,49.7,51973.88,35.3,4.0,6.4,High,4.9,0.0,8.0
+733,Kyle Nguyen,Marketing,2015-07-13,25.7,40633.23,40.7,7.0,1.6,Low,3.2,1.0,
+734,Edgar Hughes,Engineering,2019-04-01,32.4,34492.86,,2.0,1.5,Very Low,,,15.0
+735,Steven Stein,Engineering,2016-08-20,29.0,59523.89,39.5,5.0,3.2,Low,26.5,1.0,19.0
+736,Laura Jackson,Finance,2017-06-20,-47.4,52644.68,47.4,3.0,1.8,Medium,13.9,1.0,10.0
+737,Charles Turner,Engineering,2011-11-29,36.0,96660.22,36.1,,3.1,Low,,1.0,16.0
+738,Arthur Hamilton MD,Finance,2015-06-22,52.3,60718.31,16.6,5.0,0.2,Medium,5.8,1.0,11.0
+739,Mr. David Wright,Engineering,2021-02-28,39.1,44606.59,16.2,7.0,5.0,High,4.9,0.0,12.0
+740,Linda Gonzalez,Engineering,2017-08-21,37.4,105167.5,40.9,9.0,8.5,Medium,17.3,1.0,16.0
+741,Eric Rush,Engineering,2023-06-10,35.7,,16.2,6.0,3.1,Medium,40.0,1.0,16.0
+742,Manuel Brock,Engineering,2012-01-07,43.2,,8.6,5.0,9.3,High,16.2,1.0,3.0
+743,George Ochoa,Marketing,2019-06-25,18.0,46535.67,59.9,7.0,0.5,Low,,1.0,9.0
+744,Valerie Taylor,Engineering,2022-10-18,35.9,45323.06,65.3,1.0,1.9,High,7.9,1.0,8.0
+745,Travis Harris,Sales,2021-02-16,34.3,52261.42,15.9,3.0,2.8,Very High,6.1,1.0,10.0
+746,Vincent Novak,Finance,2020-03-17,42.3,75717.64,22.8,3.0,2.6,High,13.8,1.0,13.0
+747,Michael Henry,Engineering,2015-03-23,33.1,108692.65,17.6,11.0,1.5,Very Low,,0.0,
+748,Dana Bennett,Engineering,2023-04-16,24.6,98568.43,36.5,4.0,1.2,Very High,15.8,1.0,13.0
+749,Jenna Wilson,Finance,2017-09-30,35.1,50680.46,16.3,2.0,0.4,High,15.7,1.0,13.0
+750,Leslie Gardner,HR,2017-10-08,24.2,27518.33,20.6,5.0,1.5,Very High,8.2,0.0,15.0
+751,Krista Benton,Sales,2011-09-22,18.0,59754.95,,7.0,0.5,High,10.5,1.0,13.0
+752,Michael Gonzales,IT,2010-01-26,42.3,32753.49,12.2,2.0,4.0,Very High,1.4,0.0,16.0
+753,Michael Fuentes,HR,2018-05-09,40.8,573646.1230683089,30.8,5.0,0.7,High,4.9,1.0,8.0
+754,Jennifer Porter,Engineering,2017-07-08,39.7,56784.48,9.4,2.0,0.2,High,21.2,0.0,19.0
+755,Dana Hopkins,Sales,2023-04-03,48.0,48183.67,15.0,1.0,2.4,Very High,2.4,1.0,10.0
+756,Rachel Jones,Marketing,2014-04-07,28.3,29791.32,9.4,6.0,2.7,Medium,12.0,1.0,12.0
+757,Karen Morales DDS,HR,2020-06-22,20.7,50560.49,29.5,4.0,6.2,Low,11.2,1.0,14.0
+758,Melissa Stephens,Engineering,2022-08-24,34.3,54062.78,31.3,7.0,2.6,Medium,16.9,0.0,6.0
+759,Heather Woodard,Finance,2014-10-24,31.5,35470.34,3.4,,1.3,High,3.0,0.0,9.0
+760,Margaret Miller,Marketing,2015-10-11,26.6,20818.82,27.5,6.0,4.9,Medium,2.2,1.0,7.0
+761,Mary Kelly,Sales,2019-01-16,34.2,54491.34,9.1,6.0,2.3,Low,14.1,1.0,6.0
+762,Amanda Terrell,Engineering,2017-03-05,28.9,,65.5,6.0,0.2,Medium,7.6,1.0,1.0
+763,Jennifer Goodwin,Sales,2012-04-02,18.0,,46.4,7.0,2.5,Medium,17.0,0.0,14.0
+764,Jessica Smith,Marketing,2013-02-02,-30.6,42122.21,36.8,4.0,7.2,Medium,29.2,1.0,6.0
+765,Jorge Stone,Sales,2021-09-07,23.6,51909.65,,9.0,1.5,Very High,6.4,0.0,12.0
+766,Laura Griffin,HR,2012-09-20,37.3,,22.7,4.0,1.1,High,4.8,1.0,17.0
+767,Raymond Chapman,Marketing,2012-07-16,28.4,33577.86,42.2,6.0,0.5,Medium,30.4,1.0,5.0
+768,Haley Johnson,Finance,2021-03-11,46.1,57903.21,14.5,7.0,0.5,Medium,8.6,,11.0
+769,Jason Nixon,Engineering,2021-12-05,51.0,,26.5,4.0,1.7,Low,11.0,1.0,5.0
+770,Todd Thomas,Finance,2021-12-01,41.8,82093.16,14.1,6.0,2.7,Medium,14.2,1.0,12.0
+771,Jesse Clark,Sales,2023-01-19,19.5,51533.32,75.5,2.0,0.3,Medium,12.3,1.0,3.0
+772,Mr. Jeffrey Horton,Finance,2023-12-01,50.1,46966.87,8.0,6.0,8.4,Medium,3.9,1.0,9.0
+773,Eric Patrick,Sales,2016-06-15,50.8,573646.1230683089,10.5,4.0,4.2,Medium,16.1,1.0,6.0
+774,Samuel Wong,Engineering,2017-09-10,35.2,48593.5,16.1,3.0,2.7,Low,,1.0,2.0
+775,Carly Riggs,Marketing,2014-01-25,48.2,44064.19,54.9,3.0,5.3,High,6.4,1.0,
+776,Christopher Moore,Sales,2010-12-11,29.5,64011.42,24.2,5.0,0.3,Medium,13.6,0.0,12.0
+777,Tina Hall,Sales,2011-05-18,18.0,68877.91,,3.0,1.9,Low,9.6,0.0,8.0
+778,Cody Davidson,Marketing,2020-02-27,27.4,38531.12,40.9,4.0,3.0,Medium,10.6,0.0,2.0
+779,Allen Mendez,Marketing,2016-10-26,52.3,,75.8,3.0,5.3,High,7.1,0.0,9.0
+780,Kevin Price,HR,2014-08-19,20.1,,22.1,6.0,4.6,High,7.4,0.0,16.0
+781,Christine Goodwin,Marketing,2011-10-18,35.0,46679.78,42.9,9.0,1.0,Low,26.3,1.0,15.0
+782,Amy Garcia,Engineering,2019-03-05,35.3,49142.2,49.6,5.0,8.5,High,10.5,0.0,14.0
+783,Chelsea Nguyen,Engineering,2011-05-27,29.9,27759.27,,6.0,0.4,Low,,1.0,4.0
+784,Dennis Huffman,Engineering,2018-09-02,30.6,80396.87,11.5,4.0,6.2,Medium,30.6,1.0,4.0
+785,Margaret Harper,Sales,2022-08-07,35.7,68529.56,22.6,3.0,10.6,High,13.2,0.0,11.0
+786,Laurie Bailey,Finance,2014-06-13,29.4,48742.44,,9.0,0.6,Medium,11.4,0.0,18.0
+787,Lisa Cervantes,HR,2016-04-22,20.8,40521.93,28.9,3.0,3.8,Medium,3.9,0.0,5.0
+788,Elizabeth Mendez,Engineering,2018-08-17,37.2,72836.07,,9.0,0.1,Low,,0.0,2.0
+789,Cesar Wilson,Engineering,2014-04-12,45.7,40061.92,14.6,4.0,1.6,Very Low,,1.0,15.0
+790,Clayton Steele,IT,2018-03-06,43.7,49722.5,15.7,8.0,2.2,Medium,30.1,1.0,11.0
+791,Jennifer Taylor,Sales,2017-12-01,26.9,71618.57,35.4,3.0,2.6,Medium,4.9,0.0,17.0
+792,Cody Reid,HR,2015-02-07,22.5,25703.74,26.8,3.0,8.2,Medium,7.0,1.0,16.0
+793,Maria Cooke,Engineering,2014-06-06,32.2,66317.82,26.5,5.0,3.3,Medium,10.4,0.0,15.0
+794,Katherine Taylor,HR,2015-12-30,50.7,27636.15,2.1,8.0,2.0,Medium,12.0,1.0,3.0
+795,Jerry Brown,Sales,2010-01-25,41.5,70082.43,20.5,3.0,5.0,Medium,6.1,1.0,15.0
+796,Adam Taylor,Finance,2013-06-12,42.0,51125.45,56.4,4.0,9.0,Medium,11.1,1.0,19.0
+797,Tracey Wagner,IT,2013-02-06,43.9,39163.4,49.4,8.0,0.1,Medium,4.1,1.0,13.0
+798,Michael Perry PhD,HR,2020-05-09,39.2,61088.79,52.9,3.0,12.1,High,7.7,0.0,16.0
+799,Bradley Johnson DDS,Marketing,2016-02-08,36.2,39886.54,44.6,3.0,0.3,Medium,4.2,1.0,12.0
+800,Donald Medina,IT,2021-10-04,41.6,49648.49,30.5,2.0,5.1,High,,1.0,17.0
+801,Jim Newton,Marketing,2011-11-18,29.5,52805.18,,7.0,1.0,Low,10.1,1.0,16.0
+802,Krista Wilson,Sales,2020-04-04,20.9,,17.0,2.0,0.4,High,8.5,0.0,
+803,Reginald Morrow,HR,2022-04-15,42.2,30615.77,,6.0,1.7,Very Low,13.8,1.0,6.0
+804,Rodney Williams,HR,2016-06-24,47.4,44893.01,20.6,5.0,3.1,Medium,17.8,1.0,19.0
+805,Kimberly Fritz,Engineering,2015-01-08,23.8,71881.29,,6.0,1.4,Medium,5.9,1.0,13.0
+806,Ronald Potter,Marketing,2014-04-11,43.2,59099.58,38.5,2.0,0.2,Medium,7.2,0.0,
+807,Zachary Cole,IT,2017-09-21,51.8,59384.1,26.1,,2.7,Low,23.2,1.0,
+808,Robert Gonzales,IT,2012-06-17,35.0,52285.74,6.2,3.0,7.0,Medium,16.8,0.0,9.0
+809,Patricia Young PhD,Engineering,2018-06-29,26.8,46204.01,,6.0,1.4,Low,,1.0,4.0
+810,Heather Page,Sales,2021-10-13,36.2,57722.74,36.7,5.0,0.7,Medium,10.8,1.0,13.0
+811,Carol Taylor,IT,2022-01-07,29.5,45120.5,,7.0,1.8,Medium,28.8,1.0,2.0
+812,Daniel Brown,Finance,2011-12-17,28.8,21532.23,32.1,6.0,0.1,Medium,8.9,1.0,3.0
+813,Douglas Ryan,Sales,2017-07-16,39.3,64176.75,9.4,7.0,5.2,Medium,14.3,1.0,5.0
+814,Michael Roberts,IT,2013-09-07,19.0,,17.1,4.0,5.3,High,5.2,1.0,18.0
+815,Scott Duke,Finance,2022-05-28,20.6,28237.45,50.2,7.0,2.7,High,11.9,0.0,14.0
+816,Anna Estes,Engineering,2011-01-26,35.2,40768.28,,2.0,1.3,Low,31.7,1.0,2.0
+817,Tamara Riddle,HR,2011-01-21,34.8,48959.35,14.6,6.0,4.8,Medium,6.3,1.0,15.0
+818,Beth Cline,Engineering,2010-04-06,38.4,114017.27,33.2,7.0,2.4,Medium,19.2,0.0,8.0
+819,Michael Poole,Sales,2017-02-05,53.8,59126.85,31.3,5.0,5.2,Medium,15.4,1.0,16.0
+820,Megan Burns,Engineering,2010-06-09,36.0,48270.04,44.0,4.0,3.0,Low,,0.0,3.0
+821,Debra Perry,Finance,2018-02-22,41.0,47290.79,23.4,5.0,4.6,Low,7.1,1.0,5.0
+822,Mark Beard,Sales,2015-09-03,25.2,,42.5,2.0,2.7,Low,22.0,1.0,4.0
+823,Jose Ramirez,Engineering,2018-04-05,42.7,49210.38,45.7,8.0,1.6,Low,15.6,1.0,12.0
+824,Jackie Clements,Engineering,2022-09-08,29.7,45833.76,31.5,5.0,9.5,High,5.8,1.0,19.0
+825,Aaron Schroeder,Engineering,2017-09-20,35.7,51765.8,42.9,6.0,2.3,Very Low,40.0,0.0,15.0
+826,Monica Ellis,Finance,2017-08-10,33.9,40141.25,16.4,5.0,2.8,Medium,4.8,1.0,13.0
+827,Heather Brown,Engineering,2023-12-24,45.3,62363.54,47.6,,0.7,Very High,6.3,0.0,5.0
+828,Claudia Jordan,Engineering,2016-08-10,21.9,,10.4,8.0,2.9,High,24.3,,12.0
+829,Derrick Clayton,Marketing,2020-11-06,18.0,55804.09,48.1,7.0,2.5,Low,27.0,1.0,19.0
+830,Kenneth Knight,Engineering,2015-02-14,32.9,59358.04,47.2,0.0,0.6,Low,27.1,1.0,2.0
+831,Mr. Michael Williams,Sales,2013-02-15,39.7,52951.65,34.9,4.0,0.2,Low,26.8,0.0,
+832,Richard Stevens,Engineering,2020-10-22,36.5,36062.22,27.8,7.0,2.8,High,8.3,1.0,5.0
+833,Scott Alexander,Sales,2020-04-06,47.3,73071.6,20.6,,4.3,High,4.7,1.0,11.0
+834,Tyler Harris,Sales,2014-01-27,39.4,55059.73,42.2,2.0,2.2,Medium,9.2,,18.0
+835,Bonnie Santos,Engineering,2016-07-03,29.4,59244.08,6.3,3.0,0.8,Low,,0.0,18.0
+836,Timothy Hill,Engineering,2017-02-22,18.0,,19.8,9.0,3.3,High,23.8,1.0,7.0
+837,Danielle Watson,Finance,2015-07-22,32.6,57510.61,37.6,7.0,0.3,Medium,11.8,0.0,10.0
+838,Carol Sanders,Engineering,2017-01-11,45.3,49067.59,20.0,8.0,1.7,Low,17.6,1.0,14.0
+839,Michael Young,HR,2019-04-11,31.1,37579.41,21.5,4.0,0.5,High,4.6,1.0,11.0
+840,Michele Smith,HR,2021-11-13,35.3,61718.56,29.7,2.0,0.6,Medium,7.5,0.0,2.0
+841,Casey Perez,Sales,2021-04-16,39.2,59731.5,28.1,6.0,0.7,Medium,10.7,,13.0
+842,Alexandra Dominguez,Marketing,2018-08-05,24.8,33419.32,9.3,2.0,1.5,Low,6.7,1.0,13.0
+843,Virginia Henderson,Sales,2012-04-27,41.2,74442.72,23.4,4.0,0.2,Medium,15.0,1.0,9.0
+844,Benjamin Reyes,IT,2017-03-13,51.4,50961.38,34.0,9.0,1.5,Medium,11.3,0.0,17.0
+845,Ashley Edwards,Sales,2016-03-31,33.3,,44.2,4.0,2.2,High,14.8,1.0,15.0
+846,Breanna Ayala,Engineering,2012-07-04,23.7,,55.0,3.0,2.0,Very High,4.8,1.0,16.0
+847,Brandi Haney,Sales,2023-04-12,34.3,52101.12,37.0,4.0,1.4,Medium,13.8,1.0,10.0
+848,Joseph Smith,IT,2019-03-25,18.0,,5.8,2.0,5.5,Medium,10.6,0.0,12.0
+849,Jessica Bowen,Engineering,2023-07-19,38.4,61650.07,68.3,7.0,0.5,Very Low,,0.0,5.0
+850,Brittany Jenkins,HR,2020-04-20,39.5,52856.32,38.6,7.0,2.1,High,2.7,1.0,17.0
+851,Shannon Miller,Sales,2016-10-07,51.8,65791.0,,2.0,0.2,High,12.1,1.0,10.0
+852,Paul Lawrence,Marketing,2015-01-09,33.1,38954.94,24.0,,0.2,Medium,16.1,1.0,6.0
+853,Victor Edwards,Sales,2013-01-23,39.1,46870.85,35.8,4.0,2.6,High,10.8,1.0,6.0
+854,Donald Miller,Finance,2016-10-28,26.4,74068.08,14.9,5.0,2.5,High,6.5,1.0,12.0
+855,Lindsay Lawson,Sales,2010-11-18,31.4,54387.09,15.3,6.0,6.3,High,19.4,0.0,19.0
+856,Melissa Abbott,Sales,2015-03-04,19.7,52087.57,27.2,6.0,2.4,Very Low,16.1,1.0,2.0
+857,Elizabeth Holmes,Sales,2010-08-07,33.1,42710.16,73.4,8.0,9.6,Medium,22.1,1.0,13.0
+858,Nicole Phillips,Engineering,2012-11-23,31.9,71461.98,40.4,4.0,0.1,High,12.0,1.0,11.0
+859,Steven Blevins,HR,2022-09-15,38.0,,12.7,1.0,0.3,Medium,3.1,1.0,15.0
+860,Brian Porter MD,Sales,2015-01-21,28.8,41721.09,,4.0,0.1,Low,12.6,1.0,13.0
+861,Vanessa Hatfield,Marketing,2016-07-28,35.8,52996.89,12.0,6.0,0.6,Low,16.9,1.0,3.0
+862,Bonnie Valencia,Engineering,2016-05-13,31.7,93166.16,34.4,3.0,2.3,Medium,6.0,0.0,14.0
+863,Holly Vega,Engineering,2010-08-26,31.7,58134.05,22.3,4.0,3.1,Medium,14.8,1.0,8.0
+864,Tiffany Townsend,Engineering,2023-09-22,35.8,68878.38,,1.0,0.1,Medium,13.0,1.0,9.0
+865,Austin Baker,Engineering,2014-07-15,35.4,42373.32,18.5,7.0,8.8,Medium,16.7,1.0,15.0
+866,Antonio Mccormick,HR,2019-11-07,42.6,,28.2,2.0,5.5,High,8.0,1.0,18.0
+867,Lori Mason,Sales,2017-04-19,33.8,52555.1,51.2,9.0,1.1,Medium,7.5,1.0,8.0
+868,Michael Miller,Sales,2021-08-12,31.5,72960.63,,6.0,0.2,Low,16.6,1.0,11.0
+869,Lisa Ramirez,Finance,2021-09-07,33.2,77028.56,18.3,5.0,0.6,Very High,6.1,,5.0
+870,Jorge Harris,IT,2013-09-08,27.9,,,10.0,0.4,High,27.8,1.0,15.0
+871,Kimberly Myers,Engineering,2017-08-14,31.4,71098.31,31.9,7.0,0.4,High,10.4,1.0,15.0
+872,Sandra Becker,Engineering,2012-06-07,55.3,70606.07,27.4,,2.2,Medium,30.9,1.0,7.0
+873,Michael Blair,HR,2019-02-24,25.9,45191.37,,4.0,0.8,Medium,1.6,1.0,18.0
+874,Amy Miller,Engineering,2015-02-11,32.2,57177.07,14.1,11.0,1.3,Medium,18.4,,12.0
+875,Jesse Lynch,Sales,2019-02-22,31.1,61083.49,28.8,4.0,13.7,Medium,17.6,1.0,12.0
+876,Patrick Yang,Sales,2021-09-10,32.5,53302.06,22.4,3.0,3.5,High,6.2,0.0,4.0
+877,Michael Miles,Marketing,2017-03-26,31.7,49378.03,53.3,1.0,8.9,Low,8.1,1.0,11.0
+878,Troy Mills,Marketing,2015-04-08,37.8,74566.52,57.8,7.0,0.5,Medium,11.3,1.0,6.0
+879,Michelle Jackson,Sales,2022-09-12,18.0,42024.62,51.7,5.0,1.4,Low,12.3,0.0,10.0
+880,Richard Adams,Sales,2017-03-24,45.4,80464.58,13.5,7.0,2.4,Medium,7.5,0.0,15.0
+881,Patricia Johnson,Sales,2014-12-10,41.3,81340.63,,5.0,0.2,Low,,0.0,1.0
+882,Denise Brown,Marketing,2022-02-22,22.6,45524.71,30.0,2.0,0.0,Low,21.1,1.0,17.0
+883,Laura Jones,Sales,2016-10-24,18.0,31022.54,22.0,5.0,3.3,Very Low,,1.0,3.0
+884,Ian Porter,Sales,2016-09-30,25.2,45080.4,27.6,9.0,3.1,Medium,15.7,0.0,11.0
+885,Holly Scott,Marketing,2018-06-16,32.6,73263.94,35.7,11.0,1.6,Medium,15.6,1.0,18.0
+886,Kenneth Sharp,Sales,2017-01-09,60.8,53254.22,55.5,6.0,2.0,Low,6.1,0.0,10.0
+887,Jordan Williams,Marketing,2011-12-12,40.4,38019.45,41.9,6.0,1.6,Low,10.8,1.0,9.0
+888,Dana Ruiz,Sales,2012-04-26,18.0,573646.1230683089,2.7,,0.1,Medium,11.4,1.0,7.0
+889,Chris Velazquez,Sales,2011-01-30,28.1,73648.56,59.1,8.0,1.2,Medium,17.0,1.0,11.0
+890,Kristen Sloan,Sales,2019-01-03,34.5,67673.16,,3.0,0.6,Medium,13.0,1.0,8.0
+891,Jennifer Morris,Marketing,2012-12-17,37.5,44236.44,36.4,8.0,0.3,Medium,10.7,1.0,2.0
+892,Nathan Nelson,Finance,2012-08-13,21.9,49467.72,49.2,7.0,9.4,Medium,12.9,1.0,5.0
+893,Jake Shaw,Finance,2015-01-26,33.7,48464.59,43.0,6.0,2.7,Low,9.7,0.0,9.0
+894,Cassie Brock,Engineering,2020-01-15,27.8,45385.73,10.8,6.0,3.9,Medium,19.0,,1.0
+895,Dr. Andrea Marshall,Marketing,2011-08-28,24.0,77570.42,47.7,3.0,1.1,Medium,7.8,1.0,17.0
+896,Ryan Murphy,Sales,2013-03-23,37.6,47252.79,,7.0,1.5,Medium,5.7,1.0,10.0
+897,Aimee Gonzalez,Engineering,2021-05-09,42.7,88981.26,19.9,4.0,0.8,Medium,20.8,,8.0
+898,Elizabeth Dean,Finance,2020-01-30,43.4,81980.84,15.2,4.0,0.3,Medium,5.5,0.0,18.0
+899,Kevin Snyder,Sales,2016-09-27,40.7,76248.97,,10.0,0.6,Medium,7.6,1.0,10.0
+900,Christie Mccullough,Sales,2016-09-13,30.0,49000.23,38.3,6.0,4.8,Low,,1.0,9.0
+901,Danielle Smith,Sales,2012-12-13,42.1,64990.87,10.2,2.0,3.4,Very High,10.2,0.0,4.0
+902,David Reed,Sales,2012-04-04,38.1,55362.11,38.2,4.0,2.4,Very Low,,1.0,2.0
+903,Sherry Tapia,Sales,2021-08-31,36.3,42328.03,,3.0,1.9,High,16.0,1.0,19.0
+904,Matthew Sweeney,HR,2010-04-25,28.9,47389.84,11.5,9.0,7.7,Medium,3.1,1.0,10.0
+905,Ashley Moreno,Engineering,2010-08-09,30.0,43690.6,41.8,6.0,0.2,Low,,0.0,17.0
+906,Johnathan Brown,Finance,2018-01-10,35.7,77636.42,46.9,3.0,1.0,Medium,11.0,1.0,3.0
+907,Michelle Davis DVM,Finance,2012-04-03,59.4,47845.67,20.5,7.0,1.3,Medium,4.2,1.0,19.0
+908,Kelly Haynes,Engineering,2018-10-24,38.0,62016.59,66.3,5.0,4.6,Medium,12.9,0.0,19.0
+909,William Miller,Engineering,2010-07-20,28.9,68224.9,22.8,7.0,14.7,Low,,1.0,19.0
+910,Casey Wilkins,Engineering,2018-01-04,26.7,57921.68,21.0,7.0,0.8,Medium,4.1,1.0,19.0
+911,Keith Graham,HR,2010-10-13,30.1,,18.7,,6.2,Medium,1.1,1.0,15.0
+912,Cynthia Green,Engineering,2013-08-13,56.8,52651.16,61.6,7.0,5.3,High,19.6,1.0,18.0
+913,Robert Haynes,HR,2012-07-09,31.0,54036.58,23.8,3.0,0.8,Low,6.1,1.0,17.0
+914,Emily Nelson,Engineering,2023-05-31,44.1,40650.0,22.1,7.0,1.5,Medium,,0.0,10.0
+915,Dale Chan,HR,2018-05-22,31.2,,,5.0,1.6,Medium,5.3,1.0,14.0
+916,Brittney Martin,Engineering,2017-11-21,37.6,,59.4,8.0,11.5,Medium,24.3,1.0,19.0
+917,Jason Herrera,Engineering,2010-04-06,42.9,47553.4,16.0,3.0,0.6,Low,36.1,0.0,18.0
+918,Christine Parker,IT,2020-01-27,29.3,45377.57,19.7,7.0,4.8,Medium,14.3,1.0,11.0
+919,Bryan Moore,Marketing,2019-04-06,28.6,58436.31,4.5,4.0,1.2,Low,2.4,1.0,11.0
+920,Samantha Terry,Sales,2013-12-20,51.6,62152.21,18.2,3.0,3.9,High,1.8,1.0,12.0
+921,Russell Murphy,Finance,2011-03-15,44.8,60677.66,9.2,3.0,1.6,Medium,5.6,,8.0
+922,David Kelly,Engineering,2016-04-15,42.9,73143.95,26.8,2.0,2.6,Low,14.3,1.0,16.0
+923,Megan Green,Finance,2023-11-24,42.9,69257.92,42.8,9.0,5.4,High,6.0,0.0,8.0
+924,Amanda Sullivan MD,Marketing,2022-02-20,39.6,70432.5,21.3,10.0,4.9,High,2.6,1.0,14.0
+925,Danielle Murray,Engineering,2012-05-21,55.2,69790.92,23.8,7.0,6.0,High,12.2,1.0,18.0
+926,Brenda Smith,Sales,2021-08-15,35.4,54528.06,10.9,7.0,0.2,Medium,30.6,1.0,4.0
+927,Vickie Anderson,Engineering,2018-05-30,40.8,75265.2,60.8,4.0,3.5,Low,,1.0,17.0
+928,Jacqueline Mccoy,Engineering,2021-02-14,20.5,108396.3,52.8,4.0,0.5,High,,1.0,13.0
+929,Lauren Green,HR,2021-06-26,26.8,,41.9,5.0,1.6,Medium,5.7,1.0,5.0
+930,Alison Brown,Engineering,2012-07-18,23.0,48869.4,40.4,3.0,2.4,Very High,14.8,,3.0
+931,Jill Anderson,Sales,2019-03-27,47.7,76944.22,11.9,7.0,1.5,Medium,15.5,0.0,9.0
+932,Sandra Rivera,Finance,2013-09-14,18.0,55074.97,35.8,4.0,2.2,High,4.3,0.0,18.0
+933,Joel Jackson,IT,2020-02-20,31.0,31653.8,41.5,4.0,17.0,Low,,1.0,19.0
+934,Samantha Foster,Engineering,2014-10-18,18.0,76214.58,36.2,4.0,0.4,High,6.9,0.0,19.0
+935,Michael Thompson,Sales,2016-05-07,26.7,48745.25,5.1,8.0,3.4,Low,15.9,1.0,16.0
+936,Cody Ramirez,Engineering,2018-04-08,30.1,55434.09,,5.0,1.5,Medium,7.4,,1.0
+937,Amanda Harvey,Sales,2013-03-20,48.8,63528.55,,3.0,0.4,Low,11.9,1.0,5.0
+938,Edward Jenkins,Finance,2015-05-25,39.0,58864.79,15.8,11.0,0.5,Medium,11.7,1.0,
+939,Amy Ramirez,Sales,2011-07-10,26.7,68560.04,23.7,7.0,8.9,High,3.7,1.0,12.0
+940,Curtis Wilkerson,HR,2012-10-31,45.7,36811.67,31.2,5.0,6.4,Medium,3.7,1.0,1.0
+941,Lydia Pham,Engineering,2022-01-12,35.2,,38.7,6.0,7.1,Very Low,8.5,0.0,14.0
+942,Virginia Casey,HR,2017-01-22,35.4,37534.87,59.4,2.0,14.3,Low,5.5,1.0,18.0
+943,Joshua Washington,Marketing,2015-11-16,23.0,59066.32,,1.0,0.7,Medium,11.2,0.0,18.0
+944,Kathryn Price,Finance,2012-02-04,25.1,67819.05,41.1,3.0,1.3,Medium,,1.0,6.0
+945,Francis Robinson,Sales,2011-05-08,26.7,46504.77,28.8,5.0,3.3,Medium,8.9,1.0,1.0
+946,Paula Brown,Sales,2016-08-29,35.5,78092.65,5.7,7.0,2.0,Low,29.9,1.0,17.0
+947,Kendra Wang DVM,Sales,2018-08-09,35.8,50023.72,30.3,3.0,1.6,Medium,14.6,1.0,18.0
+948,Ariel Sandoval,Finance,2010-07-19,50.4,71398.28,50.8,4.0,1.3,Medium,5.0,1.0,15.0
+949,Robert Stark,Finance,2020-12-21,38.9,58719.17,49.9,2.0,2.7,High,8.6,1.0,12.0
+950,Zachary Robinson,HR,2017-01-17,18.0,,23.3,5.0,2.6,High,2.0,1.0,13.0
+951,Rebecca Kelly,HR,2011-08-24,37.6,41427.61,25.6,2.0,0.5,High,4.1,1.0,2.0
+952,Sarah Thompson,Marketing,2016-10-01,20.5,47513.7,40.8,5.0,1.9,Medium,8.8,1.0,4.0
+953,Renee Wolfe,Sales,2011-10-29,25.3,57172.21,37.6,7.0,2.4,Very High,14.0,0.0,3.0
+954,Alyssa Haynes,Finance,2018-06-12,26.9,47475.18,31.7,,2.5,Medium,12.4,1.0,19.0
+955,Kristy Hart,Engineering,2021-08-01,28.4,81869.83,,6.0,0.7,Medium,16.0,1.0,8.0
+956,William Keith,Engineering,2022-07-22,21.2,36669.55,47.2,3.0,4.1,Medium,8.0,0.0,12.0
+957,Eric Henry Jr.,Engineering,2020-11-05,37.0,43998.89,18.1,10.0,0.1,Low,39.7,1.0,12.0
+958,Daniel Fox,Sales,2019-02-01,20.9,41606.59,45.1,5.0,1.3,Very Low,33.6,1.0,10.0
+959,Thomas Harris,Sales,2017-04-22,38.6,78079.14,13.4,3.0,4.5,High,9.3,1.0,1.0
+960,Mitchell Sellers,Marketing,2015-03-09,57.4,,38.8,7.0,2.5,High,11.4,1.0,5.0
+961,Erica Johnson,Sales,2010-08-11,21.7,55464.58,11.1,3.0,0.9,Very Low,9.0,1.0,
+962,Sylvia Schroeder,HR,2017-06-01,32.2,40536.48,44.6,5.0,3.6,Medium,6.6,0.0,9.0
+963,Shannon Yu,Sales,2013-03-19,18.0,57658.22,54.0,4.0,2.5,Medium,15.2,0.0,14.0
+964,Tom Foster,Engineering,2021-03-25,32.0,,29.7,7.0,4.8,High,6.5,1.0,3.0
+965,Eric Taylor,Engineering,2021-01-19,41.4,41335.45,38.8,4.0,4.0,High,13.0,1.0,5.0
+966,Travis Conner,Engineering,2015-05-03,42.2,65225.15,51.6,4.0,2.8,Low,,1.0,9.0
+967,Marie Thompson,Marketing,2018-03-31,35.8,66163.27,48.3,3.0,2.0,High,18.2,1.0,
+968,Melissa Mcfarland,Engineering,2020-05-18,43.9,68913.9,15.8,6.0,0.4,Medium,12.0,0.0,6.0
+969,Courtney Chapman,HR,2020-08-28,60.5,,22.8,10.0,0.9,High,5.7,1.0,7.0
+970,Eric Barker,Engineering,2019-10-02,52.1,82330.97,57.1,3.0,1.6,High,14.5,0.0,16.0
+11,Monica Herrera,Sales,2013-03-02,29.0,60378.36,,6.0,0.7,High,4.3,1.0,13.0
+971,Nicholas Rush,Marketing,2011-05-15,29.8,25297.11,27.5,5.0,2.7,Low,15.6,0.0,8.0
+972,Jenna Gamble,IT,2011-11-16,20.5,,37.6,4.0,2.2,High,4.7,1.0,10.0
+973,Amanda Guzman,Marketing,2016-09-05,30.9,39355.11,20.5,5.0,1.0,Low,13.6,0.0,
+974,Tracy Walker,Sales,2013-04-03,25.5,32249.61,,2.0,0.0,Low,27.2,1.0,11.0
+975,Taylor Taylor,Sales,2022-01-09,39.5,65569.75,59.5,3.0,2.1,Low,10.1,0.0,
+976,Cynthia Haas,Engineering,2013-12-19,23.2,,22.4,4.0,1.0,Medium,38.0,0.0,2.0
+977,Stephen Davis,HR,2022-04-10,34.3,,29.4,6.0,4.0,Medium,5.5,1.0,14.0
+978,Margaret Tanner,Sales,2015-09-21,43.4,73512.01,,7.0,0.1,High,10.5,1.0,9.0
+979,Derek Wright,Engineering,2012-08-24,34.0,97130.78,46.2,4.0,2.6,High,14.5,0.0,10.0
+980,David Rodriguez,HR,2019-12-05,25.5,63063.77,38.4,7.0,8.5,Medium,12.7,1.0,10.0
+981,James Oconnor,Engineering,2021-01-18,46.7,101480.05,19.1,4.0,0.6,Medium,13.2,1.0,10.0
+982,Stacey Snyder,Marketing,2018-02-02,18.0,59636.41,7.9,5.0,1.9,Medium,24.7,1.0,19.0
+983,Joshua Garcia,Sales,2011-08-26,31.7,59454.92,28.8,6.0,0.3,Medium,,,11.0
+984,Sean Curtis,Sales,2010-02-06,34.6,33599.52,43.8,9.0,2.9,High,9.2,1.0,11.0
+985,Carla Jones,Marketing,2019-03-01,35.2,46038.81,26.6,3.0,2.4,High,9.3,1.0,3.0
+986,Elizabeth Flores,Engineering,2019-08-17,36.8,49220.77,,9.0,1.6,Medium,3.6,0.0,19.0
+987,Angela Jackson,Marketing,2014-06-03,41.1,93954.66,28.2,6.0,2.2,Medium,10.2,0.0,1.0
+988,Nicholas Payne,Engineering,2015-01-26,34.6,59036.03,43.6,2.0,6.8,Low,17.7,1.0,12.0
+989,Anna Wheeler,Sales,2012-03-02,31.3,57463.71,46.7,9.0,0.7,Medium,,0.0,15.0
+990,Karen Johnson,Finance,2019-02-13,30.9,63231.69,5.4,4.0,0.1,Medium,,,14.0
+991,Carmen Preston,Marketing,2013-07-20,28.9,49254.52,25.1,5.0,5.9,Medium,16.0,0.0,3.0
+992,Brian Harris,Marketing,2021-12-19,42.9,,24.0,5.0,2.6,Medium,,1.0,13.0
+993,Michael Bowen,Engineering,2015-12-06,28.5,50481.88,29.2,4.0,6.6,Medium,14.0,1.0,18.0
+994,Deborah Campbell,HR,2015-02-13,43.5,,15.3,3.0,2.7,Medium,2.1,0.0,16.0
+995,Anthony Armstrong,Engineering,2013-11-09,35.2,48058.22,35.5,5.0,5.0,Medium,21.2,1.0,6.0
+996,Brittany Ward,Sales,2019-07-12,29.8,37370.02,,4.0,1.7,Low,22.7,1.0,10.0
+997,Edward Stanley,Finance,2020-07-26,41.2,44369.07,30.6,3.0,4.2,Medium,1.2,0.0,17.0
+998,Christina Johnson,Sales,2015-10-14,27.7,55268.02,28.6,5.0,7.3,Low,12.9,1.0,17.0
+999,Edgar Miller,IT,2020-12-20,41.4,51592.91,12.9,6.0,2.5,Low,2.7,1.0,8.0
+1000,Elizabeth Sanders,Engineering,2016-10-02,37.1,50741.31,,9.0,0.6,High,9.8,1.0,4.0
